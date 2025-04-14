@@ -1,0 +1,198 @@
+ORGANIZATION_ID,GL_CODE_ID,GL_NAME
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,5e07f902-ea54-11ef-b08d-b3959c398296,Accounts Payable
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,5e081f9a-ea54-11ef-b08d-330bff3836b1,Accounts Receivable
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,5e082206-ea54-11ef-b08d-57ad080a7534,Advertising
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,5e085564-ea54-11ef-b08d-d3bd91a60779,Automobile Expenses
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,5e087c10-ea54-11ef-b08d-d39dde86cef2,Bad Debts
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,5e087e2c-ea54-11ef-b08d-2f2b4b0f2a4c,Bank Service Charges
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,5e08800c-ea54-11ef-b08d-df8f6a38c56b,Common Stock
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,5e0881ec-ea54-11ef-b08d-834e00dfd39f,Computer Equipment
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,5e08839a-ea54-11ef-b08d-bfa128d2ad83,Consulting & Accounting
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,3435b838-fe5b-11ef-9135-9703c6a0407d,Contract Labor
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,5e08a0d2-ea54-11ef-b08d-d7409f4338cb,Cost of Goods Sold
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,5e08a2e4-ea54-11ef-b08d-0f366ed0410f,Credit
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,32cb4fc4-aa7b-11ee-ba20-d7814e5ddfa0,Depreciation
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,5e08dac0-ea54-11ef-b08d-8b0fcd54ebd2,Employee Tax Payable
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,32cb56d6-aa7b-11ee-ba20-573419d67af2,Entertainment
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,93ac3476-fe7f-11ef-8883-5ba5c49c2721,Equipment and Tools
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,158465a6-fe65-11ef-8e74-4f092d5593c6,Events and Trade Shows
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,564cdbec-fe5e-11ef-8cdf-eff62277fbc0,Freight and Shipping Inbound
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,62cd09a4-fe5f-11ef-b2ed-a728f4845b80,Fulfillment & Assembly
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,5e09064e-ea54-11ef-b08d-3b023ce35269,General Expenses
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,a236f51c-f5fb-11ef-a8ba-538b589f6b5d,GoCardless-USD
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,5e092548-ea54-11ef-b08d-236c23860269,Historical Adjustment
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,5e094622-ea54-11ef-b08d-8f13ab895381,Income Tax Expense
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,5e094820-ea54-11ef-b08d-4bef53555d34,Income Tax Payable
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,32cb5d02-aa7b-11ee-ba20-f3f4885987ab,Insurance
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,5e097854-ea54-11ef-b08d-6f6da07a29b3,Interest Expense
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,5e097a34-ea54-11ef-b08d-83efdd105e38,Interest Income
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,32cb23dc-aa7b-11ee-ba20-4b7d489a0168,Inventory
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,5e097bec-ea54-11ef-b08d-ff3aef14fe5f,Janitorial Expenses
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,5e0999c4-ea54-11ef-b08d-0713545aecff,Legal Expenses
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,5e099b90-ea54-11ef-b08d-b7110e838c64,Less Accumulated Depreciation on Computer Equipment
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,5e09bdbe-ea54-11ef-b08d-bb7c6b3275d7,Less Accumulated Depreciation on Office Equipment
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,5e09e064-ea54-11ef-b08d-2788a20c7332,Loan
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,e8f73cec-fe60-11ef-8cb8-ab6c4cbfe295,Marketing
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,1584dd2e-fe65-11ef-8e74-d71b5325c039,Marketing Content Creation
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,5e09e244-ea54-11ef-b08d-8b0df94db00d,Mercury Checking ••1769
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,5e0a0814-ea54-11ef-b08d-133d8b4c04c9,Mercury Checking ••1885
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,5e0a27fe-ea54-11ef-b08d-973f7ea4e6f5,Mercury Savings ••1821
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,5e0a2a56-ea54-11ef-b08d-13a330a1350f,Mercury Savings ••5549
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,5e0a48ec-ea54-11ef-b08d-cf022cca404a,Office Equipment
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,5e0a4ac2-ea54-11ef-b08d-535f0022a860,Office Expenses
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,5e0a4c84-ea54-11ef-b08d-b78074d1165e,Other Revenue
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,5e0a73a8-ea54-11ef-b08d-8330b6e1dde0,Owners Contribution
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,5e0a98f6-ea54-11ef-b08d-ff2fadb3ad82,Owners Draw
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,5e0a9b12-ea54-11ef-b08d-4b5ae661f97d,Payroll Tax Expense
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,5e0aba02-ea54-11ef-b08d-073123bde988,Payroll Wages Payable
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,5e0abbf6-ea54-11ef-b08d-afba3371d194,Postage & Delivery
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,5e0abdc2-ea54-11ef-b08d-47ef48d00e30,Prepayments
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,5e0aebda-ea54-11ef-b08d-1bb6a8f652e4,Printing & Stationery
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,564d72fa-fe5e-11ef-8cdf-c742b45b1d6c,Product Manufacturing Costs
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,32cb2e9a-aa7b-11ee-ba20-47ce482162e6,Rent
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,5e0b2992-ea54-11ef-b08d-0b0b9fc2f8ff,Repairs and Maintenance
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,0c144b0c-f092-11ef-ad89-cff85491c575,Research and Development
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,32cb6004-aa7b-11ee-ba20-536e33c7781a,Retained Earnings
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,5e0b2b9a-ea54-11ef-b08d-93489f734029,Rounding
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,ec8776f8-fe59-11ef-a321-0bbd518110a1,SAFE Investments
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,32cb8e30-aa7b-11ee-ba20-5b00560b43f2,Sales
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,5e0b5af2-ea54-11ef-b08d-8bca8cc3574d,Sales Tax
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,93ac8156-fe7f-11ef-8883-b3e934367fe4,Small Tools and Consumables
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,1585402a-fe65-11ef-8e74-8ff8842771a5,Software Subscriptions
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,a2374e68-f5fb-11ef-a8ba-eb0ee494384c,Stripe Fees
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,5e0b85a4-ea54-11ef-b08d-93ba33649e7f,Suspense
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,5e0b87b6-ea54-11ef-b08d-2bac1e46123b,Telephone & Internet
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,5e0ba520-ea54-11ef-b08d-8fb818bcbf3d,Tracking Transfers
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,32cba1c2-aa7b-11ee-ba20-dfb359ff0c11,Travel
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,5e0bd3ce-ea54-11ef-b08d-2f2d1d6ab0aa,Treasury
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,5e0bd608-ea54-11ef-b08d-c74492b84a4f,Unpaid Expense Claims
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,32cba578-aa7b-11ee-ba20-d78dc26a4d83,Utilities
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,5e0c04a2-ea54-11ef-b08d-7b26fb8e554d,Wages and Salaries
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,dc853d4a-faca-11ef-9c7e-f788a08a565f,Accounts Payable
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,dc856e14-faca-11ef-9c7e-4fbc8e184a42,Accounts Receivable
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,dc8594b6-faca-11ef-9c7e-a33f3c306c9c,Advertising
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,dc85ce68-faca-11ef-9c7e-a36bc3179404,Automobile Expense
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,51c4c398-faab-11ef-9602-ff848ab1f692,Bad Debt
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,dc85d11a-faca-11ef-9c7e-eb4b7fcc6b75,Bank Service Charges
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,dc85f942-faca-11ef-9c7e-afea3d4a037a,Business License & Fees
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,dc861c10-faca-11ef-9c7e-df7e4695eb2d,Computer & Office Equipment
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,dc864d7a-faca-11ef-9c7e-dfe1f789f109,Cost of Goods Sold
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,dc864ffa-faca-11ef-9c7e-93843a2ba573,Credit
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,51c4e198-faab-11ef-9602-6bd75c6a2ed8,Depreciation
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,dc867372-faca-11ef-9c7e-8b5fbce54377,Discount Received
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,dc86a7d4-faca-11ef-9c7e-dfe665ca19d3,Dues & Subscriptions
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,dc86aa36-faca-11ef-9c7e-238bf75bf29b,Employee Advances
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,dc86d218-faca-11ef-9c7e-7bf8ff653dc5,Federal Payroll Liability
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,dc870468-faca-11ef-9c7e-b7d6a269c417,Gift Card Liability
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,dc87317c-faca-11ef-9c7e-87a32a6d2705,Historical Adjustment
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,51c4fef8-faab-11ef-9602-1fcc826fdc55,Insurance
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,51c51064-faab-11ef-9602-33836918e102,Inventory Asset
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,dc875e86-faca-11ef-9c7e-dfe92d1473a9,Less-Accumulated Depreciation: Computer & Office Equipment
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,dc878320-faca-11ef-9c7e-9377b023bb95,Less-Accumulated Depreciation: Vehicles
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,dc87abb6-faca-11ef-9c7e-af3fb0013e64,Line of Credit
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,dc87dc80-faca-11ef-9c7e-03b77d73ce83,Markup on Reimbursable Expenses
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,dc880a84-faca-11ef-9c7e-6b5626162caa,Meals & Entertainment
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,dc880cd2-faca-11ef-9c7e-67e446c6a456,Merchandise
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,dc884ff8-faca-11ef-9c7e-6f48e8158b0f,Mercury Checking ••8219
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,dc885322-faca-11ef-9c7e-3b439361da8a,Mercury Savings ••8592
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,dc887ee2-faca-11ef-9c7e-97e089e4320b,Mileage Reimbursement
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,dc88b1e6-faca-11ef-9c7e-93fd7caea680,Miscellaneous
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,dc88b420-faca-11ef-9c7e-732d83b272ce,Other Expense
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,dc88b72c-faca-11ef-9c7e-0b415fa07f32,Other Income
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,dc88b920-faca-11ef-9c7e-7bb37ed5761a,Other Payroll Liability
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,dc88ded2-faca-11ef-9c7e-773797cc6c9b,Owner's Capital
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,dc890d26-faca-11ef-9c7e-1b4503ca914f,Owner's Capital: Owner's Billable Time
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,dc894b38-faca-11ef-9c7e-77c439fa407b,Owner's Capital: Owner's Draw
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,dc897b1c-faca-11ef-9c7e-a7dfc8940fb0,Owner's Capital: Owner's Investment
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,dc89b096-faca-11ef-9c7e-279ca843ef7b,Payroll Tax Expense
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,dc89e138-faca-11ef-9c7e-e3e28b9a7b6b,Payroll Wages Payable
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,dc8a0d2a-faca-11ef-9c7e-4f7d46e6ae86,Prepayments
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,dc8a29ea-faca-11ef-9c7e-c38828984d2b,Professional Fees
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,dc8a2cba-faca-11ef-9c7e-673cd4aa714e,Purchase Discount
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,dc8a2eae-faca-11ef-9c7e-3f5eb3ebdd63,Reimbursable Expense
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,51c5d5e4-faab-11ef-9602-37b4c3bf1351,Retained Earnings
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,dc8a6220-faca-11ef-9c7e-2770602a131f,Rounding
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,51c5dabc-faab-11ef-9602-2f4e58e195a1,Sales
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,dc8a9ad8-faca-11ef-9c7e-270f89aea7e9,Sales Tax
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,dc8ace9a-faca-11ef-9c7e-fbb2f23b1ce3,Service
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,dc8af4ce-faca-11ef-9c7e-0f9eef471af5,State Payroll Liability
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,dc8b1580-faca-11ef-9c7e-ff354c4ad8b7,Subcontractors
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,dc8b1792-faca-11ef-9c7e-478b194dea14,Suspense
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,dc8b6878-faca-11ef-9c7e-9b5f6ca47979,Tracking Transfers
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,51c60104-faab-11ef-9602-5f5521e9db37,Uncategorized Income
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,dc8b8e7a-faca-11ef-9c7e-1738ec4f2a12,Unpaid Expense Claims
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,51c61dba-faab-11ef-9602-8352a542f1b7,Vehicles
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,dc8bb59e-faca-11ef-9c7e-ffdf948fca79,Vendor Deposits
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,dc8bdeca-faca-11ef-9c7e-5f2701e42fb2,Vendor Refunds
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,dc8c274a-faca-11ef-9c7e-0fe0b3845b1a,Wages & Salaries
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,b3816f2c-1628-11ef-ae6b-8f0c3a035924,Accounts Payable
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,b37f7640-1628-11ef-ae6b-73a85beb04a6,Accounts Receivable
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,b38558f8-1628-11ef-ae6b-cb91608355ae,Advertising
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,b385a664-1628-11ef-ae6b-b34e2ef0f5b4,Automobile Expense
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,b386e93e-1628-11ef-ae6b-1bdf01245217,Bad Debt
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,b3858eae-1628-11ef-ae6b-bf969443b0c0,Bank Service Charges
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,b385dc38-1628-11ef-ae6b-9b589df09539,Business License & Fees
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,b3806262-1628-11ef-ae6b-93809737fb6a,Computer & Office Equipment
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,b384f944-1628-11ef-ae6b-ff2990f124e9,Cost of Goods Sold
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,b386ff00-1628-11ef-ae6b-c355ef0a3d4d,Depreciation
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,b383d168-1628-11ef-ae6b-afed6351a4c8,Discount Received
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,934918a0-162c-11ef-b2e6-e3a8d10b58bf,Donation
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,b385f150-1628-11ef-ae6b-07e9c061b75f,Dues & Subscriptions
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,b37fe18e-1628-11ef-ae6b-2bfa9e9165cf,Employee Advances
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,b381efb0-1628-11ef-ae6b-f3bb6ad5e2c1,Federal Payroll Liability
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,b381a2ee-1628-11ef-ae6b-3bf9e324a90d,Gift Card Liability
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,bab2f5a2-e4ba-11ef-ab4d-4b8e79f8f850,Hire Hangar
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,b382b2b0-1628-11ef-ae6b-9b59814b0ad9,Historical Adjustment
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,b3863dd6-1628-11ef-ae6b-bf41efe9707e,Insurance
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,b3802d2e-1628-11ef-ae6b-3f478aca972f,Inventory Asset
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,b380ae34-1628-11ef-ae6b-f36cc76b5d11,Less-Accumulated Depreciation: Computer & Office Equipment
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,b3813bba-1628-11ef-ae6b-976acb8dc991,Less-Accumulated Depreciation: Vehicles
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,b38282ae-1628-11ef-ae6b-7fc7309bc806,Line of Credit
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,b3845700-1628-11ef-ae6b-6faef686badb,Markup on Reimbursable Expenses
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,b3862580-1628-11ef-ae6b-fb9ac0d06d58,Meals & Entertainment
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,b38406ba-1628-11ef-ae6b-0b356b22e789,Merchandise
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,503e5ee2-1629-11ef-91e2-9bda75bb42da,Mercury Checking ••9378
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,503e961e-1629-11ef-91e2-834945336973,Mercury Savings ••8967
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,b386ba7c-1628-11ef-ae6b-b740945715bc,Mileage Reimbursement
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,b3871c42-1628-11ef-ae6b-bb4be664076c,Miscellaneous
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,55b356b6-6d40-11ef-a1ba-9f1df343f052,Office expense
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,b3874bfe-1628-11ef-ae6b-bfa502cd9112,Other Expense
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,b384b434-1628-11ef-ae6b-8394ffe62da1,Other Income
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,c22f1fd2-0156-11f0-a746-8bd92b847798,Other Payroll Tax Liability
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,b382f3ec-1628-11ef-ae6b-f3c401345b6b,Owner's Capital
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,b3837240-1628-11ef-ae6b-5ba18f324cff,Owner's Capital: Owner's Billable Time
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,b3833c44-1628-11ef-ae6b-c353aed09cfc,Owner's Capital: Owner's Draw
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,b3832754-1628-11ef-ae6b-af3c1990a33e,Owner's Capital: Owner's Investment
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,c22f8e4a-0156-11f0-a746-3f9ffbe3f912,Payroll Clearing Account
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,b386a1d6-1628-11ef-ae6b-d786363c3342,Payroll Tax Expense
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,c22f9174-0156-11f0-a746-37aefe7d8deb,Payroll Tax Liability
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,b381d70a-1628-11ef-ae6b-2f731144f875,Payroll Wages Payable
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,934a2812-162c-11ef-b2e6-23b0bdf79975,Postage & Delivery
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,b37fc78a-1628-11ef-ae6b-f384967dc8f6,Prepayments
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,b386550a-1628-11ef-ae6b-0f7bc6a08613,Professional Fees
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,b3851118-1628-11ef-ae6b-8f1ad8ba8935,Purchase Discount
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,b3866e78-1628-11ef-ae6b-87c340d42f66,Reimbursable Expense
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,9349c502-162c-11ef-b2e6-67c619e9e66a,Rent & Lease
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,b383a49a-1628-11ef-ae6b-c3716f985ece,Retained Earnings
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,b382c78c-1628-11ef-ae6b-1fe4567462e4,Rounding
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,b383ba7a-1628-11ef-ae6b-3f8cda954741,Sales
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,b3826666-1628-11ef-ae6b-27c8296b9c77,Sales Tax
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,b3842168-1628-11ef-ae6b-373d33706260,Service
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,934a48c4-162c-11ef-b2e6-1b4bcaf260f4,Software Subscriptions
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,b3823ca4-1628-11ef-ae6b-ef960ac4e657,State Payroll Liability
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,76b500e4-5a6c-11ef-9f15-e79bd628cbdc,Stripe Fee
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,76b4f766-5a6c-11ef-9f15-c7266a56b964,Stripe USD
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,444a1182-003c-11f0-a66a-4bd30e94504a,Stripe USD 1
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,b385407a-1628-11ef-ae6b-c3bcb7670ce1,Subcontractors
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,b3829ab4-1628-11ef-ae6b-57e80ee30d23,Suspense
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,b382dee8-1628-11ef-ae6b-171c1638218d,Tracking Transfers
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,93498ed4-162c-11ef-b2e6-f71723209638,Training & Development
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,9349f658-162c-11ef-b2e6-33591961054a,Travel
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,b38487fc-1628-11ef-ae6b-5b52cc62e29b,Uncategorized Income
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,b381b9c8-1628-11ef-ae6b-7742eca2ac53,Unpaid Expense Claims
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,9349dd76-162c-11ef-b2e6-7b5cb22fcd86,Utilities
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,b38109c4-1628-11ef-ae6b-0771b595c0cc,Vehicles
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,b37ff73c-1628-11ef-ae6b-af0538e34e7b,Vendor Deposits
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,b384ca50-1628-11ef-ae6b-a7086efa8f9d,Vendor Refunds
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,b38687f0-1628-11ef-ae6b-a7a81fafecbb,Wages & Salaries
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,893e2512-f7e0-11ef-a01c-030a76de56a7,corporate LLC filing fees

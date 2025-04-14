@@ -1,0 +1,1001 @@
+ORGANIZATION_ID,TRANSACTION_METADATA_ID,TRANSACTION_DATE,GL_CODE_ID,LINE_ITEM_AMOUNT,MERCHANT_NAME,HIERARCHY_MANUALNESS
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,0009aa1e-9877-11ef-ab3b-31f6012fa281q,"Nov 2, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,75,Mailgun,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,000ba646-2e9e-11ee-93b5-d7cb559b327az,"Jul 30, 2023",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,31.39,Shutterstock,mapping categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,00229292-12a6-11ef-b19e-5b37b4539e18z,"May 15, 2024",5e087e2c-ea54-11ef-b08d-2f2b4b0f2a4c,15,Fees,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,007f9bf2-7b71-11ef-94ed-49a534c8a476q,"Sep 26, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,27.7,Read Meeting Manager,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,008e09a4-afc8-11ef-aa7e-8d5bb96c5f5bz,"Dec 2, 2024",5e082206-ea54-11ef-b08d-57ad080a7534,900,Facebook,mapping categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,00a0c874-0783-11f0-bd02-0141e9a15923t,"Mar 23, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,00a6504a-e3e4-11ef-8afe-6d6739647919q,"Feb 6, 2025",51c5b230-faab-11ef-9602-a73b7ca86f47,2.58,Github,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,00ccd17c-9bc6-11ef-97d9-8b5afb55fb02z,"Nov 5, 2024",3435b838-fe5b-11ef-9135-9703c6a0407d,750,Payroll,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,00de2812-afec-4692-80a3-dcf9bc11ce4dz,"Aug 24, 2024",0c144b0c-f092-11ef-ad89-cff85491c575,649,Xometry.Com,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,00f320e6-013a-11f0-9252-6fc4f34fba79t,"Mar 15, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,00f9aae6-a976-11ee-9697-7bda2367286fz,"Jan 2, 2024",1585402a-fe65-11ef-8e74-8ff8842771a5,210,Intuit *,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,0104a532-a000-11ef-9eb5-33af4a431544q,"Nov 11, 2024",51c615d6-faab-11ef-9602-dfb9979c07b4,196.83,Progressive,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,01183646-2383-11ef-8059-8feee882fdc1z,"Jun 5, 2024",1585402a-fe65-11ef-8e74-8ff8842771a5,10.83,Stripe,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,012907d8-4ed0-11ee-b67f-ebd5c5295212z,"Sep 9, 2023",5e09064e-ea54-11ef-b08d-3b023ce35269,"4,135.23",Amex Epayment,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,0138c92c-d4dd-11ef-8740-bbaa8cacfe9ez,"Jan 17, 2025",5e087e2c-ea54-11ef-b08d-2f2b4b0f2a4c,0.41,Wells Fargo Ifi,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,013ab66a-161c-451e-854a-34d60fd6fed7z,"Jun 29, 2024",5e082206-ea54-11ef-b08d-57ad080a7534,899.99,Facebook,mapping categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,014f7c35-3dea-4191-8a8b-22c9d936baf4z,"May 14, 2024",1585402a-fe65-11ef-8e74-8ff8842771a5,29.5,Adcreaai Ad Crea Ente,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,015c7fdd-708f-4cdc-a300-fd5c112c23a3q,"May 24, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,200,Twilio,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,01734bc8-6eb4-11ee-b585-5fe86585c0f1z,"Oct 20, 2023",1584dd2e-fe65-11ef-8e74-d71b5325c039,216.5,Bell Video (3 Of 3,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,01774a2e-b65d-11ef-8e65-d3141ced6214z,"Dec 9, 2024",5e087e2c-ea54-11ef-b08d-2f2b4b0f2a4c,15,Fees,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,017c8298-7218-11ef-a354-0fbe65a923f5q,"Sep 13, 2024",51c5ee12-faab-11ef-9602-0f5588d668f5,"6,378.03",Gusto,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,0199e406-c1d2-11ee-8e92-17c8f51d2e10z,"Feb 2, 2024",1585402a-fe65-11ef-8e74-8ff8842771a5,210,Intuit *,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,019e1a88-59c4-11ee-b5b7-eb57f6e401cbz,"Sep 24, 2023",5e082206-ea54-11ef-b08d-57ad080a7534,50,Google,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,01a4c977-1a46-4365-83fd-b497d78c3a00z,"May 26, 2024",5e082206-ea54-11ef-b08d-57ad080a7534,500,Google,mapping categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,01addbea-038b-11f0-a6ac-1de8f0e3df83t,"Mar 18, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,01c60e38-3b16-11ef-bb73-932c8e79fc56z,"Jul 5, 2024",1585402a-fe65-11ef-8e74-8ff8842771a5,10.83,Stripe,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,01c7ca58-f888-4ed6-82c1-10ce9f8031b4q,"Mar 30, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,104.06,Openai,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,01d24a9d-5c50-4d92-97bc-2e2306c3a68az,"Jul 6, 2024",5e082206-ea54-11ef-b08d-57ad080a7534,500,Google,mapping categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,01ecd1b8-7020-4a0a-8fec-ef8bfc15ba23q,"May 12, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,20,Gmass,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,01f31324-7fdc-449f-b7dc-d661412fbb75z,"Aug 31, 2024",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,20,Vercel,mapping categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,01f6e540-c441-11ee-b793-f3a33eda85f4z,"Feb 5, 2024",1585402a-fe65-11ef-8e74-8ff8842771a5,10.8,Stripe,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,024691df-9845-45a5-bb98-35bf6785a96ez,"Mar 21, 2024",5e09064e-ea54-11ef-b08d-3b023ce35269,43.29,Amazon,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,0254bd5c-fefe-11ef-b9cd-f567d20696a0t,"Mar 12, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,02775044-0190-11f0-8f22-1f4a8bb1b09et,"Mar 15, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,4.38,Slack,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,02b6bdae-c150-11ef-8868-c92a9852c2b7z,"Dec 24, 2024",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,45.75,Canva,mapping categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,02cc3925-b48e-4379-8380-d873fa8299dcq,"Apr 27, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,1.52,Air Ai,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,02d482e2-d5e0-4feb-b6f9-92cffa6c8003q,"Jun 11, 2024",51c61432-faab-11ef-9602-9367dc148211,30.1,Wawa,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,02db4432-0203-11f0-b8a3-0fc07b3aece0t,"Mar 16, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,02f0d1f2-96d9-11ef-a60a-cf8602f73644z,"Oct 31, 2024",1585402a-fe65-11ef-8e74-8ff8842771a5,12,Codepen.Io/Charge,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,02f2bf20-69ae-11ee-9123-4f8db0e2dbebz,"Oct 14, 2023",158465a6-fe65-11ef-8e74-4f092d5593c6,"2,041.59",Micklethwait Craft,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,02f9be94-ee26-11ef-bc1f-13973a257bcct,"Feb 19, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,02fad3f6-e494-11ef-80bf-f789994607c4q,"Feb 7, 2025",51c60ef6-faab-11ef-9602-071ee06520f3,7.13,Tesla,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,030c571c-08f1-11f0-afdb-3fd286360d65t,"Mar 25, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,0327c830-3bc0-11ee-8eba-5343129c6eebz,"Aug 16, 2023",0c144b0c-f092-11ef-ad89-cff85491c575,219,Sp Vinylfrog,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,033d2386-5a6b-4d3f-a22b-5b45b04002b1z,"Sep 1, 2024",5e0abbf6-ea54-11ef-b08d-afba3371d194,100,Endicia,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,034da801-6967-48f5-87ec-adc2cd1c64a8z,"Jul 11, 2024",0c144b0c-f092-11ef-ad89-cff85491c575,29.07,Mouser Electronics,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,036514ee-b28c-11ef-9a2c-cb33508252b2z,"Dec 7, 2024",5e09064e-ea54-11ef-b08d-3b023ce35269,41.29,Amazon,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,036a3908-7159-11ee-98c3-7f517b198915z,"Oct 23, 2023",5e082206-ea54-11ef-b08d-57ad080a7534,799,Pledgebox,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,036bf24c-fdef-11ef-bad7-33fef56f3254t,"Mar 11, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,03743da8-75d8-11ee-9166-2f02f5a00549z,"Oct 29, 2023",1585402a-fe65-11ef-8e74-8ff8842771a5,14.99,I03952,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,03923bc8-02c2-11f0-b6b7-295781435de1t,"Mar 17, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,039e09d9-a0e5-4106-b01d-fb0e5f01db48q,"Sep 3, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,942.46,Amazon Web Services,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,03a3993c-d9a9-11ef-92da-1958a1b57260q,"Jan 25, 2025",51c5f4ca-faab-11ef-9602-eb71d1d7d245,303.88,United Airlines,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,03b1f026-eb2f-11ef-bdae-f36b31b636fdt,"Feb 15, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,03bf6a62-a88b-11ef-a003-ff85be5eca64z,"Nov 22, 2024",5e09064e-ea54-11ef-b08d-3b023ce35269,9.99,Amazon,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,03d399d6-fd4c-11ef-88ec-975e75935b76t,"Mar 10, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,03d4410e-d431-11ef-9def-05cc17a902c4q,"Jan 17, 2025",51c5b230-faab-11ef-9602-a73b7ca86f47,10,Github,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,03f2f8d3-49a1-4519-999b-57d80b80db5bq,"Jul 16, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,300.77,Openai,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,03f427e2-a3d3-11ee-b983-4b01dc9d9a36z,"Dec 26, 2023",5e09064e-ea54-11ef-b08d-3b023ce35269,"1,119.77",Alex Duncan,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,040e1cd6-ba96-11ee-b31c-7f9ea4e2685dz,"Jan 25, 2024",0c144b0c-f092-11ef-ad89-cff85491c575,89.57,Mcmaster-Carr,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,041f889c-d4dd-11ef-9af4-0720d791e98bz,"Jan 17, 2025",5e087e2c-ea54-11ef-b08d-2f2b4b0f2a4c,0.07,Wells Fargo Ifi,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,042b589b-028b-4e58-9894-18d3064ce447z,"May 13, 2024",5e0abbf6-ea54-11ef-b08d-afba3371d194,173.29,Ups,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,042c7241-3acf-4a94-be71-ec2679c86ce6q,"Jul 3, 2024",51c60ef6-faab-11ef-9602-071ee06520f3,17.39,Tesla,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,042e82a1-dec4-4b24-adfb-d9b0d8849e75q,"Jul 3, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,30,Sociocs,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,04341806-a33f-443a-abaa-d90b61d1fe97z,"May 27, 2024",5e09064e-ea54-11ef-b08d-3b023ce35269,9.73,Amazon,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,04495c58-eca7-11ef-8628-83c8fd2d47c6t,"Feb 17, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,044edf8a-3ae1-11ee-8c98-67d323499636z,"Aug 15, 2023",5e082206-ea54-11ef-b08d-57ad080a7534,75,Facebook,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,04637469-58a5-4fa6-b37c-3a9140513cedq,"May 19, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,97,Instantly,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,04681332-06ba-11f0-9791-cbea63970014t,"Mar 22, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,04686db0-e800-11ef-bbc8-170eed0d06c8z,"Feb 10, 2025",5e09064e-ea54-11ef-b08d-3b023ce35269,"1,424.51",Amex Epayment,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,046d1058-7218-11ef-872d-9bb0e415a590q,"Sep 13, 2024",51c5bd02-faab-11ef-9602-0b194a6373b1,"13,171.13",Gusto,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,046fcedc-eccb-11ef-a9e7-93e56ba5e6c2t,"Feb 17, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,04767a38-2775-4f99-8747-ba7c9d49265fq,"Apr 24, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,119,Read Meeting Manager,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,04771458-ffc7-11ef-9d4a-5b2962ec4442t,"Mar 13, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,0489009c-f30f-11ef-a23c-b3a0f819d0e9q,"Feb 25, 2025",51c60ef6-faab-11ef-9602-071ee06520f3,19.75,Tesla,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,04ab1ace-a8e6-11ef-a053-6b73126663d0z,"Nov 23, 2024",32cb2e9a-aa7b-11ee-ba20-47ce482162e6,415,Amazing Spaces,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,04c63445-bb54-4e01-8e9d-1c9c52bab700q,"Mar 20, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,249.99,Zenrows.Com,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,04c7c4f8-06ba-11f0-b91d-9330477a06cct,"Mar 22, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,04cb3b1c-c810-11ef-975d-83e1ee636c1cq,"Jan 1, 2025",51c60ef6-faab-11ef-9602-071ee06520f3,1.23,Tesla,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,04ce8958-6235-11ee-b61d-43c2eb78082dz,"Oct 4, 2023",5e082206-ea54-11ef-b08d-57ad080a7534,900,Facebook,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,04d66eb9-d18d-4644-ba3e-5bcff988a4a9q,"Apr 6, 2024",51c61432-faab-11ef-9602-9367dc148211,33.87,7-Eleven,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,05061732-f6c8-11ef-a6ef-698f633c9568t,"Mar 2, 2025",b386550a-1628-11ef-ae6b-0f7bc6a08613,19,Death To Stock,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,052a29e0-b732-11ef-94ae-f794cf426fe0q,"Dec 10, 2024",51c5dabc-faab-11ef-9602-2f4e58e195a1,"30,000",Auto Routing,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,05379fb2-a0e1-11ed-9fae-130b91998101z,"Jan 31, 2023",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,14.99,Canva,mapping categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,05459aa1-2169-4b31-b623-1dc6f8e81d5fz,"Apr 5, 2024",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,105.53,Shopify,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,0556a766-0c89-11f0-b22b-41365f7a234fz,"Apr 1, 2025",5e08a0d2-ea54-11ef-b08d-d7409f4338cb,218.99,Coverstore,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,056593c4-d0f4-11ee-aabe-bb403a086d6ez,"Feb 21, 2024",5e08a0d2-ea54-11ef-b08d-d7409f4338cb,"10,462.5",Lam Viet Jsc,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,0567b2be-8e4d-11ef-8465-79c0d15c5149z,"Oct 20, 2024",1585402a-fe65-11ef-8e74-8ff8842771a5,10.79,Setapp,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,057b27b2-fe15-11ef-a6c4-67935079d621t,"Mar 11, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,057c99b2-00f0-11ef-a76c-a34b0bd523b4q,"Apr 22, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,72,Stripe,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,058684a4-fc88-4239-a557-189f88d7a1b3q,"Aug 21, 2024",51c60ef6-faab-11ef-9602-071ee06520f3,15.52,Tesla,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,05903f3f-8867-411b-ab02-4512207bc5f9z,"Jun 1, 2024",5e082206-ea54-11ef-b08d-57ad080a7534,260.65,Pinterest,mapping categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,059754d0-f96c-11ef-a66d-ff9c621bd93cq,"Mar 5, 2025",51c5b230-faab-11ef-9602-a73b7ca86f47,5,Elevenlabs,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,05ab6f9e-f15e-11ef-84cf-7bb0077d414dt,"Feb 23, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,05ad6108-ffa7-11ef-955a-8fb6dca92c90t,"Mar 13, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,05afc156-9341-4987-bdbb-29b6dc813de9q,"Jul 26, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,300.89,Openai,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,05b48b73-0c54-4972-8ed6-9a6ea43c7b66q,"May 23, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,100,Sakari Sms,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,05d46c68-4872-11ef-8a8e-a36244f22ed2q,"Jul 22, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,30.14,Next Insur (Ap I,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,05d4a663-6d25-4c4c-9162-a8c1fba605c0z,"Jul 7, 2024",5e0abbf6-ea54-11ef-b08d-afba3371d194,20.19,Stamps.Com,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,05ded016-08f9-11f0-8e3a-7df948724304z,"Mar 25, 2025",5e09064e-ea54-11ef-b08d-3b023ce35269,510.8,Amazon,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,05e040db-7294-44cd-a2c1-a8b84a0b323dq,"Jul 24, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,119,Read Meeting Manager,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,06055e64-6145-11ee-a3fe-8367824e2c4az,"Oct 3, 2023",5e082206-ea54-11ef-b08d-57ad080a7534,500,Google,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,0607ae01-efbc-41fa-abff-1259fdd97863q,"Jun 6, 2024",51c60ef6-faab-11ef-9602-071ee06520f3,8.36,Tesla,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,0612b502-f69d-11ef-bd86-874a5ab721d1z,"Mar 1, 2025",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,37.31,"Mercury Technologies, Inc.",manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,061456c8-b4da-11ef-a259-4320fdddaac9q,"Dec 8, 2024",51c60ef6-faab-11ef-9602-071ee06520f3,28.53,Tesla,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,061b25ec-e3af-4ec7-aae9-89b06ed4f3c8q,"Jun 27, 2024",51c52da6-faab-11ef-9602-1b5151ad1ee3,28.14,Uber Eats,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,0645a5f6-71a7-11ee-9acc-5f0c983c3229z,"Oct 23, 2023",564cdbec-fe5e-11ef-8cdf-eff62277fbc0,"1,530.53",Sea Sky Global Logistics Inc,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,0647229e-60ce-11ee-9caf-a3ea94683f32z,"Oct 2, 2023",1585402a-fe65-11ef-8e74-8ff8842771a5,188.84,Intuit *,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,064f829e-21e1-11ee-b997-87f9b61434eez,"Jul 17, 2023",5e09064e-ea54-11ef-b08d-3b023ce35269,0.94,Coca-Cola,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,06546324-23e2-4f0a-bcee-65caaaaf6a1bq,"Jul 19, 2024",51c610b8-faab-11ef-9602-efe95e6091e2,25,75 Wall Garage Corp,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,067287f6-0783-11f0-befa-bde7736648a0t,"Mar 23, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,0672f7db-b67d-48ff-ab94-3450471532f6q,"Aug 1, 2024",51c610b8-faab-11ef-9602-efe95e6091e2,10,Ggmc Parking,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,067f7cac-2c0d-40f1-bd5c-ae64273621e7q,"Jun 26, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,300.04,Openai,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,0684f812-f385-11ef-a4c9-4314555d1767q,"Feb 26, 2025",51c5b230-faab-11ef-9602-a73b7ca86f47,9.99,Discord,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,069560a4-ff64-11ef-8dc6-afba008797f0t,"Mar 13, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,069c6c11-5057-4a48-b153-bfb45dcfeb88z,"Mar 8, 2024",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,19.15,Figma,mapping categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,069fc30e-3e3b-11ef-9443-b3222535141ez,"Jul 9, 2024",3435b838-fe5b-11ef-9135-9703c6a0407d,500,Payroll,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,06a06c8a-7cc2-11ef-a886-e5c788ef1d51z,"Sep 27, 2024",0c144b0c-f092-11ef-ad89-cff85491c575,320.63,Fictiv,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,06a7022c-fede-11ef-ad11-470b158608a2t,"Mar 12, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,06ab28ae-2a26-11ee-8f3d-eb43d011d67cz,"Jul 25, 2023",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,63.84,Midjourney,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,06af1b35-7384-4c09-a298-043049482caeq,"Jul 17, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,301.45,Openai,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,06b7561a-b817-4429-82b4-719c2a092f8eq,"Apr 30, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,200,Tensordock,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,06e61d9e-aea3-11ef-9b07-4f016547b23dq,"Nov 29, 2024",51c5ee12-faab-11ef-9602-0f5588d668f5,"7,016.72",Gusto,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,06f75092-d0f4-11ee-8588-93d86a8ca310z,"Feb 21, 2024",5e087e2c-ea54-11ef-b08d-2f2b4b0f2a4c,15,Fees,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,0703aa06-eff0-11ef-8bed-2becdb6ce14at,"Feb 21, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,070ec1ee-f481-11ef-815f-010129ffadb0t,"Feb 27, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,0710eaec-a214-11ef-8ef1-5bf978397a05z,"Nov 14, 2024",5e082206-ea54-11ef-b08d-57ad080a7534,900,Facebook,mapping categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,071122ce-3beb-4985-aabe-4ff899a971eaq,"Jun 24, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,119,Read Meeting Manager,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,073593d6-6ef4-11ef-bed7-3b9bfa1d04a5z,"Sep 9, 2024",5e0a9b12-ea54-11ef-b08d-4b5ae661f97d,34.76,Intuit 65212263,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,07657790-e96f-11ef-8fb6-7f32bfb029b4t,"Feb 13, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,0766a68e-a307-11ed-8602-93409ff48b5bz,"Feb 2, 2023",0c144b0c-f092-11ef-ad89-cff85491c575,"20,280",Gembah Inc,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,078028e0-be29-11ef-9d54-a55171efee6aq,"Dec 20, 2024",51c52da6-faab-11ef-9602-1b5151ad1ee3,179.22,Best Multistar Wines Li,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,07b8aaf0-f47c-4bd7-88f3-c0f8c9697940q,"Sep 6, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,501.24,Openai,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,07bf8242-50ac-11ee-b6da-7f75fde782e5z,"Sep 12, 2023",0c144b0c-f092-11ef-ad89-cff85491c575,378.38,The Fabric Cellar,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,07c6247e-ec02-11ef-a7d4-55ff295698f3t,"Feb 16, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,07e2a7f4-3b16-11ef-a665-af513214f039q,"Jul 5, 2024",51c4ebde-faab-11ef-9602-57fb74d25bf9,534.43,The Guardian,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,07ebfe88-ed3d-11ef-9588-5995f3b9a1d6z,"Feb 18, 2025",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,9.9,Azwedo.Com,mapping categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,07f375af-c1ae-4e70-b136-0d59769a0c19z,"Mar 6, 2024",0c144b0c-f092-11ef-ad89-cff85491c575,119.66,Digi-Key Electronics,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,080a1e5c-fc49-11ef-8f1e-2fae74065b04z,"Mar 9, 2025",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,319.8,Flowcode Pro,mapping categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,080d57d6-aada-11ef-99f0-313f5fd246bbz,"Nov 25, 2024",1585402a-fe65-11ef-8e74-8ff8842771a5,17.28,Commoninja,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,08126b2b-fc5a-4945-998a-6b3cadcee933q,"May 2, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,44,Gptforwork.Com,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,08270c92-f226-11ef-b0f1-f7b8fd448c47t,"Feb 24, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,086b48dc-3547-11ee-86d9-2fe4edb3ed5dz,"Aug 7, 2023",ec8776f8-fe59-11ef-a321-0bbd518110a1,"15,000",Kyle Conarro,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,08b920ca-f2dd-11ef-aaae-25fa1a484b27t,"Feb 25, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,08baefa2-711b-11ef-8a1b-6dfa54045cfbq,"Sep 13, 2024",51c529b4-faab-11ef-9602-9f3703026526,28.58,Gregorys Coffee,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,08c27ce6-8ca4-11ef-be94-e798fc4e233bq,"Oct 20, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,50,Vapi Api,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,08deb59a-cf94-11ef-b27d-3daf280646ffq,"Jan 11, 2025",51c5b230-faab-11ef-9602-a73b7ca86f47,30,Grammarly,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,08e76906-ff82-11ef-a6be-afa8e5b9bbfct,"Mar 13, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,08f3a194-16fe-4164-9a91-e790246265c4z,"May 1, 2024",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,32.46,Adobe,mapping categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,0908cbe7-5a3c-46a6-8603-be86ab83202eq,"Jun 5, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,300.98,Openai,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,091415e6-ed62-11ef-a1af-9d85a0aa09f8q,"Feb 18, 2025",51c5b230-faab-11ef-9602-a73b7ca86f47,22,Elevenlabs,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,092916b0-a37c-4a65-88d4-6beba263c684z,"Aug 3, 2024",5e08a0d2-ea54-11ef-b08d-d7409f4338cb,"1,123.95",Coverstore.Com,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,09450f9a-7971-4a07-95aa-26d78f6b81abz,"Mar 2, 2024",5e082206-ea54-11ef-b08d-57ad080a7534,374.22,Google,mapping categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,09503922-fe15-11ef-bede-474f53168f46t,"Mar 11, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,09542946-e985-11ef-b20d-31dbb6844436q,"Feb 13, 2025",51c4f304-faab-11ef-9602-97ac70f52e01,200,Amazon,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,09959bd0-fe9b-11ef-8c2f-17bbe39ce6f7t,"Mar 12, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,0998cdd4-f0c2-42ed-b721-247b1d5f5fbcq,"Mar 8, 2024",51c610b8-faab-11ef-9602-efe95e6091e2,37,Keap Crm,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,099c8652-c188-11ef-9b6b-e118142e7049q,"Dec 24, 2024",51c60ef6-faab-11ef-9602-071ee06520f3,25.78,Tesla,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,09a3d540-eca5-11ef-8c94-81fbc5f93aact,"Feb 17, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,09bd3ff6-5054-11ee-a76c-4f3ccbe161eaz,"Sep 11, 2023",e8f73cec-fe60-11ef-8cb8-ab6c4cbfe295,"14,150",Honeybook.Com,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,09d862ce-bd2f-11ef-a353-d985beb57d50q,"Dec 19, 2024",51c52da6-faab-11ef-9602-1b5151ad1ee3,30.5,Uber Eats,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,09e0d2fc-d63e-11ee-b085-97509b8b7deeq,"Feb 28, 2024",51c5dabc-faab-11ef-9602-2f4e58e195a1,"38,863.07",Stripe,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,09ee3ade-8da2-11ef-b69e-852588b18d4cq,"Oct 19, 2024",51c60ef6-faab-11ef-9602-071ee06520f3,12.11,Tesla,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,0a0a5f61-77d9-4b25-a2d9-7c4f9f11b44cq,"Apr 14, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,1.09,Air Ai,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,0a11ac50-8a4a-4ad5-b1a3-643e8ff270baz,"Aug 7, 2024",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,21.32,Claude.Ai,mapping categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,0a1ad94b-3a85-480c-8a1a-f9b0c1b85aadq,"Aug 2, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,79.42,Google Cloud,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,0a20e850-81cf-11ef-be22-c3688edc216eq,"Oct 3, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,351,Gusto,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,0a351cb0-f5f3-11ef-b9f8-6dd208a2f5f0t,"Mar 1, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,30,Convertapi,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,0a3703c6-fa1d-11ef-8d14-cb4216872918t,"Mar 6, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,0a3c1b4a-4df2-11ef-93bb-27b0e43d6d9dz,"Jul 29, 2024",5e0c04a2-ea54-11ef-b08d-7b26fb8e554d,"3,083.83",Intuit 34930157,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,0a3e5a6e-043a-11f0-83f6-019aa54c9cfbt,"Mar 19, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,0a4d9a7e-cbd7-11ef-9931-ad23eeb6daadq,"Jan 6, 2025",51c60ef6-faab-11ef-9602-071ee06520f3,18.17,Tesla,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,0a7f6178-79fd-499f-a1c6-368df2407a3fq,"Aug 5, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,40.04,Twilio,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,0a94523e-170b-11ee-ac43-9f9c418fbb93z,"Jun 30, 2023",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,31.39,Shutterstock,mapping categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,0ab4afca-759c-11ef-a5ea-334dd8393faez,"Sep 18, 2024",e8f73cec-fe60-11ef-8cb8-ab6c4cbfe295,15,Jimnix.Com,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,0ace4d14-eed1-11ef-bb1a-69e4f92d8c50q,"Feb 20, 2025",51c5b230-faab-11ef-9602-a73b7ca86f47,49,Bulkresponse.Com,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,0ad0f654-99a5-11ee-9760-2b0936ea762bz,"Dec 14, 2023",1585402a-fe65-11ef-8e74-8ff8842771a5,29.5,Adcreative.Ai,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,0ad5c730-2252-11ee-82d8-c7e57059e50cz,"Jul 15, 2023",5e09064e-ea54-11ef-b08d-3b023ce35269,2.75,Coca-Cola,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,0add38ee-3369-11ee-9a0f-bf553f2bb88fz,"Aug 5, 2023",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,37.19,Shopify,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,0ae6d6fc-0b0f-478f-bf09-26307d060760q,"Mar 20, 2024",51c610b8-faab-11ef-9602-efe95e6091e2,40,Renaissance,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,0aee5e9e-54b5-48ca-9f9d-e3fe9a273d6aq,"Jul 2, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,56.16,Google Workspace,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,0aef1059-1221-4e82-bf6c-658d895d4561z,"Jun 29, 2024",1585402a-fe65-11ef-8e74-8ff8842771a5,63.84,Midjourney,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,0b0b2cd4-ef17-11ef-9f75-dbbb74a105efq,"Feb 20, 2025",51c60ef6-faab-11ef-9602-071ee06520f3,18.28,Tesla,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,0b259a80-d15c-11ee-a657-dba073a2ec75q,"Feb 22, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,100,Google Cloud,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,0b526fa8-f913-11ef-8901-9f72dabb4d41t,"Mar 5, 2025",9349dd76-162c-11ef-b2e6-7b5cb22fcd86,51.24,Spectrum,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,0b57ec63-15bd-49e6-9506-04575f103cffz,"Apr 20, 2024",1585402a-fe65-11ef-8e74-8ff8842771a5,21.64,Metapay,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,0b624522-f63e-11ef-a427-c7f972ea5516t,"Mar 1, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,0b64b8c2-eceb-11ef-823b-09584f7ed53dt,"Feb 17, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,0b83b97a-f88a-11ef-bd58-9feb8af78947t,"Mar 4, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,12,Calendly,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,0b858e86-5c17-11ef-9a54-a78170f09522z,"Aug 16, 2024",0c144b0c-f092-11ef-ad89-cff85491c575,"1,615",Corvus Engineeri,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,0ba5cbf4-7906-11ef-b02c-819ed6e6e71az,"Sep 23, 2024",32cb2e9a-aa7b-11ee-ba20-47ce482162e6,415,Py Amazing Spaces Vi,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,0bab2a7c-efa8-11ef-9f44-f5fbb7372297t,,9349f658-162c-11ef-b2e6-33591961054a,78.58,Cheapairportparking,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,0bae4734-f6dd-11ef-bfcc-194e38208f03t,"Mar 2, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,0baf7696-0f0a-11f0-b49d-4df70236bdect,"Apr 2, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,98.63,Google,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,0bb1b13a-8103-11ef-823e-3db02f41d9abq,"Oct 3, 2024",51c529b4-faab-11ef-9602-9f3703026526,6.39,540 Uptown Phoenix M,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,0bb7170e-1691-40c0-8032-1ef5bf71e1b3z,"May 2, 2024",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,29.84,Webflow,mapping categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,0bc0b7d8-2dc6-11ef-b524-1303a9e8cd56q,"Jun 18, 2024",51c5bee2-faab-11ef-9602-f328b191844c,"2,000",Gusto,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,0bf17814-a1b2-11ee-b774-875c29c06483z,"Dec 24, 2023",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,30.91,Webflow,mapping categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,0c017760-70a5-4e26-a3f5-8052e4830a9bq,"Sep 6, 2024",51c60ef6-faab-11ef-9602-071ee06520f3,13.53,Tesla,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,0c0d4c2c-675c-4b8e-a5da-eb2a6f51a703z,"Sep 12, 2024",1585402a-fe65-11ef-8e74-8ff8842771a5,15.98,Fs Pantone,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,0c13c5da-b0e9-11ef-8f62-7730292d31b9q,"Dec 3, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,70,Miro,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,0c210304-6ef3-11ef-95a0-2b3cb1b2b28fz,"Sep 9, 2024",5e09064e-ea54-11ef-b08d-3b023ce35269,"5,248.43",Amex Epayment,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,0c376dc1-1575-421e-9f65-7eaeaf23d734q,"Aug 2, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,924.2,Google Cloud,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,0c4a3f78-004b-11f0-8592-3ba7df61b64bt,"Mar 14, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,0c667abc-f4a7-11ef-b68a-a1752b37171ft,"Feb 27, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,0c6d3b8f-40a1-4813-b41e-4b3e8e43990dz,"Sep 9, 2024",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,21.32,Notion,mapping categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,0c6e925a-09de-11f0-841c-f7519ea85c2ft,"Mar 26, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,0c75ed70-a07f-11ef-8f42-bdc528be91c3q,"Nov 11, 2024",51c61432-faab-11ef-9602-9367dc148211,19.44,Wawa,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,0c7d6378-85e7-11ef-8828-ff98bac029efz,"Oct 9, 2024",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,18,Elfsight,mapping categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,0c9d2716-9b51-11ee-80e0-a75b4e5f54dcz,"Dec 15, 2023",3435b838-fe5b-11ef-9135-9703c6a0407d,"2,000",Payroll,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,0cb70c4c-9eb8-11ef-a3ff-a1b46f79fa7bq,"Nov 10, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,55,Gmass,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,0cb9c8a8-98b4-11ed-b15c-3fff95c9cef5z,"Jan 20, 2023",0c144b0c-f092-11ef-ad89-cff85491c575,"1,897.2",Corvus Engineeri,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,0cbe4dcc-78bc-11ee-bb4a-af5e9105f401z,"Nov 2, 2023",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,29.84,Webflow,mapping categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,0ccf288c-45df-11ee-a629-f3aa2fcee0d9z,"Aug 29, 2023",1585402a-fe65-11ef-8e74-8ff8842771a5,127.87,Semrush,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,0cd6a716-ebdc-11ef-abe1-4983ac19fca2t,"Feb 16, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,0cec1cc1-ae45-480a-8f88-0bcf898e5203z,"Mar 25, 2024",0c144b0c-f092-11ef-ad89-cff85491c575,104.86,Digi-Key Electronics,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,0cf46dce-95dc-11ef-9d34-f5be6c589e9fz,"Oct 30, 2024",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,86.59,Adobe,mapping categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,0d047f9c-fdcb-11ee-b7e1-8f6a8012bfa8q,"Apr 18, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,60,Stripe,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,0d0a67f8-b14a-11ef-86ff-13650088cb3fz,"Dec 3, 2024",5e082206-ea54-11ef-b08d-57ad080a7534,900,Facebook,mapping categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,0d16f614-ea4b-11ef-bae9-8745639bce5cq,"Feb 14, 2025",51c52da6-faab-11ef-9602-1b5151ad1ee3,99.68,Uber Eats,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,0d1c0aca-1122-11f0-ac50-5d933563a541t,"Apr 4, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,20,Figma,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,0d1ff798-e202-11ee-82f9-675f6104eec3z,"Mar 14, 2024",5e0c04a2-ea54-11ef-b08d-7b26fb8e554d,"3,083.82",Payroll,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,0d2274e0-ab1a-4b70-8ba7-6822ed94870bz,"May 7, 2024",5e082206-ea54-11ef-b08d-57ad080a7534,672.12,Facebook,mapping categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,0d43796a-c6c8-11ef-b923-0d98174fedbez,"Dec 31, 2024",1585402a-fe65-11ef-8e74-8ff8842771a5,12,Codepen.Io/Charge,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,0d4a497a-7822-11ee-9bf0-c7bde9e7cf07z,"Nov 1, 2023",5e09064e-ea54-11ef-b08d-3b023ce35269,37.86,Amazon,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,0d4e4ee4-ff1f-11ec-b1d0-fbac025ea256z,"Jul 19, 2022",5e0a73a8-ea54-11ef-b08d-8330b6e1dde0,54,Kevin Long,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,0d6bad92-f14b-11ef-93d4-6f931df4dab8t,"Feb 23, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,0d6c36a4-ff7e-11ef-ad62-7bb0f09ca351z,"Mar 12, 2025",ec8776f8-fe59-11ef-a321-0bbd518110a1,"50,000",Richlund Capital Llc,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,0daa0f1d-2633-4479-94d5-a1ad27631b9cq,"Apr 5, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,3,Texas Secretary Of Sta,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,0daebda5-0908-4629-b2b1-8790f12231f5z,"May 2, 2024",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,161.18,Google Workspace,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,0db13f26-300b-4b97-a08f-f0cc357321f6q,"Apr 11, 2024",51c52da6-faab-11ef-9602-1b5151ad1ee3,82.73,Wine Plus,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,0dc667e4-b9ad-11ef-b5f0-b53bd712999aq,"Dec 14, 2024",51c60ef6-faab-11ef-9602-071ee06520f3,10.49,Tesla,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,0dcabb3e-f704-11ef-93dd-e32c61201d37t,"Mar 2, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,0dd1b1b6-9cbc-11ef-8069-d3e500c59801z,"Nov 7, 2024",5e0abbf6-ea54-11ef-b08d-afba3371d194,20.19,Stamps.Com,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,0dd252da-f07a-11ef-ac7e-cd2648c87740z,"Feb 22, 2025",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,20.25,Descript,mapping categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,0de254f0-8f18-11ef-9234-a326da31f47bq,"Oct 21, 2024",51c60ef6-faab-11ef-9602-071ee06520f3,14.87,Tesla,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,0e10a174-f434-11ec-b14a-637da3bf6766z,"Jun 25, 2022",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,12,Google Pay,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,0e1a4874-f3b8-11ef-8da4-7946b622e853q,"Feb 25, 2025",51c61432-faab-11ef-9602-9367dc148211,27.88,Wawa,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,0e1f345a-0395-11f0-9111-df96db744c22t,"Mar 18, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,0e349336-7d30-11ef-9052-5b6adbe258d6q,"Sep 28, 2024",51c52da6-faab-11ef-9602-1b5151ad1ee3,65.03,Uber Eats,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,0e4aff4b-f390-4137-83d5-ce905c2ec56fz,"May 6, 2024",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,111.92,Shopify,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,0e5234b8-5a59-11ee-8ce0-67f2bed14432z,"Sep 24, 2023",5e082206-ea54-11ef-b08d-57ad080a7534,200,Google,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,0e5f1890-f1a2-11ef-8c7e-c96c531d5eedt,"Feb 23, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,0e61cd56-08b8-11f0-945c-4bb26fc08de3z,"Mar 25, 2025",1585402a-fe65-11ef-8e74-8ff8842771a5,59.96,Klaviyo,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,0e7aa109-b2a2-42a7-be6b-b5c31f0f2e1cq,"Jun 30, 2024",51c61432-faab-11ef-9602-9367dc148211,14.79,Sap Management,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,0e94aaaa-611b-11ee-bdfa-ff582dec8013z,"Oct 3, 2023",5e082206-ea54-11ef-b08d-57ad080a7534,500,Google,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,0eaa39d6-d872-11ef-9519-8bc6d3870ea8q,"Jan 22, 2025",51c60ef6-faab-11ef-9602-071ee06520f3,19.36,Tesla,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,0ebbb1f2-4005-4512-8209-4e746cfe6e8fz,"Aug 8, 2024",5e082206-ea54-11ef-b08d-57ad080a7534,398.82,Facebook,mapping categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,0eef9a50-c268-11ef-a5b9-214d009f2aa3z,"Dec 25, 2024",1585402a-fe65-11ef-8e74-8ff8842771a5,17.28,Commoninja,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,0f12f6b0-ff64-11ef-b649-fd38c5aeba68t,"Mar 13, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,0f1828f5-77d8-41b1-a5da-e528e916b4c7q,"May 9, 2024",51c5f81c-faab-11ef-9602-034dd94120e6,12.46,Uber,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,0f1c5e35-6776-425c-835f-85ddd54f7410z,"Aug 23, 2024",5e09064e-ea54-11ef-b08d-3b023ce35269,50.99,Amazon,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,0f3a3d73-59f2-4e16-ae0a-1441ab96eaeaq,"Apr 18, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,30,Mailtrap,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,0f68dd2b-c7d9-4e83-81e9-8267dcbbb7afq,"May 14, 2024",51c52da6-faab-11ef-9602-1b5151ad1ee3,370.16,Wine Plus,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,0f82515e-9597-11ef-8d58-89efcfb66693z,"Oct 29, 2024",5e082206-ea54-11ef-b08d-57ad080a7534,900,Facebook,mapping categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,0f899f42-c7d1-11ef-9a47-9bae0c3b6d5fq,"Jan 1, 2025",51c5b230-faab-11ef-9602-a73b7ca86f47,10.95,Openrouter,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,0f98e3ae-6cbf-4b81-96e9-09bdcbe7964cq,"Aug 2, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,40,Canva,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,0fbb8d9c-b925-11ee-ba22-c79df9db8ef0z,"Jan 23, 2024",0c144b0c-f092-11ef-ad89-cff85491c575,73.1,Digi-Key Electronics,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,0fbd6505-ddbe-41c9-8c89-252b8e5ae935q,"Jul 18, 2024",51c60ef6-faab-11ef-9602-071ee06520f3,21.56,Tesla,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,0fcaa27b-aa7f-4b08-b8f3-4ffff6c8a3a1z,"Apr 6, 2024",5e082206-ea54-11ef-b08d-57ad080a7534,500,Google,mapping categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,0fcf454c-092a-44a3-b151-2d23e7144a80q,"May 8, 2024",51c529b4-faab-11ef-9602-9f3703026526,15.28,Starbucks,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,0fdc0bde-f6ce-11ef-a6ef-17eb6c2098cat,"Mar 2, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,29,Tidio Communicator,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,0ff38af6-6c60-11ee-93ff-ff4a674b31bez,"Oct 17, 2023",158465a6-fe65-11ef-8e74-4f092d5593c6,171.42,Peak Beverage Texas Ll,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,0ff52388-0102-11f0-aefb-d5e8cc1504f1t,"Mar 15, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,10028564-045e-11f0-9fe4-197682989f7bt,"Mar 19, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,1006a432-42a9-11ee-8997-5785090fccdfz,"Aug 25, 2023",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,75.76,Linkedin,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,1006fa7e-166a-11ee-8d78-930004048856z,"Jun 30, 2023",e8f73cec-fe60-11ef-8cb8-ab6c4cbfe295,896.8,Customink,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,101120e7-4599-4d0e-b3c0-bad1ea793110q,"Aug 23, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,500.41,Openai,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,10227fcd-6228-48a0-83a4-ed4726480e00q,"Jun 20, 2024",51c529b4-faab-11ef-9602-9f3703026526,11.16,Gregorys Coffee,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,1031370a-e5e2-11ef-8b39-131e24c18bc4q,"Feb 8, 2025",51c5b230-faab-11ef-9602-a73b7ca86f47,20,Anthropic,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,1032bc04-9fb7-11ef-923d-d77ef447039bz,"Nov 11, 2024",5e0abbf6-ea54-11ef-b08d-afba3371d194,9.9,Ups,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,103b0f4c-c377-11ef-8775-7709173fc009z,"Dec 26, 2024",5e087e2c-ea54-11ef-b08d-2f2b4b0f2a4c,15,Fees,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,106e0aab-5406-436b-8d19-2ac04ebdc870q,"Jun 24, 2024",51c60ef6-faab-11ef-9602-071ee06520f3,12.76,Tesla,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,10764b00-c85b-11ef-a246-55a380c76dc8q,"Jan 2, 2025",51c5b230-faab-11ef-9602-a73b7ca86f47,767.71,Google Cloud,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,10785ba1-f4e2-4b53-b971-40ac76c16de7z,"Jun 1, 2024",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,41.78,Printful,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,107c3212-3a55-11ee-ba77-0b0cb4f9066bz,"Aug 14, 2023",e8f73cec-fe60-11ef-8cb8-ab6c4cbfe295,"14,150",Honeybook.Com,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,108009c4-be38-11ef-8a02-0bcd14e716ecq,"Dec 20, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,25,Bitwarden,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,10858e76-0438-11f0-b465-ffc05f425fc7t,"Mar 19, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,1089f212-efa8-11ef-bcf2-71a3e9adb635t,,9349f658-162c-11ef-b2e6-33591961054a,78.58,Cheapairportparking,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,109aadd6-7094-41a4-9313-c69cee7b788dq,"Apr 5, 2024",51c60ef6-faab-11ef-9602-071ee06520f3,14.43,Tesla,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,109b1c57-14a6-43aa-a3b1-a483b4934690q,"Jul 2, 2024",51c610b8-faab-11ef-9602-efe95e6091e2,62.99,Citizens Bank,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,10f0de10-ea70-11ef-a2cd-17538eadc4dft,"Feb 14, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,10fbb4e4-6bd5-11ef-aa4b-d3dbb686f347q,"Sep 5, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,128,Gusto,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,110cb38a-d2a9-11ef-b124-1372d97540d4q,"Jan 15, 2025",51c60ef6-faab-11ef-9602-071ee06520f3,27.09,Tesla,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,111b21d9-d7f9-4815-bdcf-c0b201891345q,"Jun 15, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,250.27,Messagemedia Usa,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,113190f0-f703-11ef-b876-17acd3fca0c1t,"Mar 2, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,11348e2e-eb3a-11ef-af5c-2f9a72019c2dt,"Feb 15, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,11524ce4-b64b-11ef-9008-25dd14e4cafbq,"Dec 10, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,55,Gmass,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,1162b89a-e1de-11ef-ac6d-edc8e826579cq,"Feb 3, 2025",51c5b230-faab-11ef-9602-a73b7ca86f47,53.35,Firstpromo,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,11678972-eb13-11ef-908b-8320c1fb0994t,"Feb 15, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,11742659-a53e-4fe1-bec4-c307cacef2cdq,"Sep 5, 2024",51c60ef6-faab-11ef-9602-071ee06520f3,12.95,Tesla,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,118af554-7a81-11ef-96f9-83f704b45a73q,"Sep 25, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,502.9,Openai,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,119cad50-c84a-11ef-aa49-05b75c5f97bbz,"Jan 2, 2025",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,29.84,Webflow,mapping categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,11a75031-334c-4939-ae35-09241ecd27a1z,"Apr 9, 2024",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,21.32,Notion,mapping categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,11b2e3cc-f99b-441c-a22c-0eafe8c6218aq,"Apr 16, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,0.63,Air Ai,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,11c5bf74-9b4b-11ee-a972-27578819fa03z,"Dec 16, 2023",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,21.28,Figma,mapping categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,11c77862-1473-11f0-a2d8-750a09d277abt,,b3874bfe-1628-11ef-ae6b-bfa502cd9112,55.9,United Airlines,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,11e5a136-facc-11ef-b59d-07299685f4fet,"Mar 7, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,11e945ee-c83a-11ef-a0e3-cb1bb69dd451z,"Jan 2, 2025",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,266.56,Google Workspace,mapping categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,12110dc9-0145-41b2-b268-e7bf633cdd20q,"May 24, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,119,Read Meeting Manager,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,121c1b34-ebdc-11ef-98f5-99af7c9e53f2t,"Feb 16, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,1221699e-08de-11f0-bffb-33085a9344d0t,"Mar 25, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,1225acbc-21ac-11ef-827a-07b984b087c6z,"Jun 3, 2024",564cdbec-fe5e-11ef-8cdf-eff62277fbc0,"4,702.45",Sea Sky Global Logistics Inc,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,1236b79c-799f-11ee-b13e-6f2242db56b4z,"Nov 3, 2023",5e09064e-ea54-11ef-b08d-3b023ce35269,11.85,Amazon,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,12373e10-0cb1-46c5-9333-c963fa6919e2q,"May 19, 2024",51c52da6-faab-11ef-9602-1b5151ad1ee3,10,Uber Eats,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,123e472a-8212-11ee-9b97-5b6b8bc9dbfcz,"Nov 14, 2023",1585402a-fe65-11ef-8e74-8ff8842771a5,29.5,Adcreative.Ai,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,125f7b92-32c7-11ee-b1c1-5ba82ff10899z,"Aug 5, 2023",5e09064e-ea54-11ef-b08d-3b023ce35269,45.36,Amazon,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,1269e77e-6a89-47bb-b6d1-4bfe4b1cce29q,"May 10, 2024",51c529b4-faab-11ef-9602-9f3703026526,16.38,Ave U Deli And Conveni,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,126cc807-bc7f-4f64-9f4c-58c737f6013eq,"Apr 11, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,3.52,Air Ai,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,127ef560-3d72-11ef-ab76-73a431a78312q,"Jul 8, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,17.01,Next Insur (Ap I,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,12b026e6-c4cb-11ee-82fd-634951c3a0d4z,"Feb 6, 2024",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,56.5,Openphone,mapping categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,12b24c62-f616-11ec-9e00-f717dbb7d83cz,"Jun 27, 2022",5e09064e-ea54-11ef-b08d-3b023ce35269,34.51,Alex Duncan,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,12bee778-f62d-11ef-b02b-658801348a35q,"Mar 1, 2025",51c60ef6-faab-11ef-9602-071ee06520f3,10.71,Tesla,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,12c3da8e-c1d2-11ee-b478-d3eebacfff30z,"Feb 2, 2024",3435b838-fe5b-11ef-9135-9703c6a0407d,"2,000",Payroll,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,12cf3e8c-27ef-11ef-98fc-db4db66f9259z,"Jun 11, 2024",32cb8e30-aa7b-11ee-ba20-5b00560b43f2,"2,608",Intuit 21062445,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,12d8fdfe-bbde-11ef-bee7-99d54ae4f24aq,"Dec 17, 2024",51c60ef6-faab-11ef-9602-071ee06520f3,5.76,Tesla,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,12f988c8-ef2b-11ef-8702-c3b8f8fced84t,"Feb 20, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,132b1e96-08ef-11f0-b96d-dd2194742ef6t,"Mar 25, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,132bf772-5f4e-11ee-aa12-ef0f51d9a89az,"Sep 30, 2023",5e082206-ea54-11ef-b08d-57ad080a7534,300,Pinterest,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,13542556-64bd-11ef-ad95-7f16bf413481z,"Aug 27, 2024",3435b838-fe5b-11ef-9135-9703c6a0407d,750,Payroll,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,135b88b2-97ca-48fc-8051-93170f79b868q,"Apr 11, 2024",51c615d6-faab-11ef-9602-dfb9979c07b4,103.4,Progressive Corporation,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,1365496c-9056-11ee-964a-83967c4fd6abz,"Dec 2, 2023",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,14.05,Fc Flaticon Premium M,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,136c7ff2-efe6-11ef-b6f0-4f33da34a1f7t,"Feb 21, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,136ffcce-3983-11ee-87e4-53f4801edd61z,"Aug 13, 2023",1585402a-fe65-11ef-8e74-8ff8842771a5,39,Remove.Bg,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,138a79e6-c209-11ee-94da-479b441e250fz,"Feb 3, 2024",0c144b0c-f092-11ef-ad89-cff85491c575,432.2,Fictiv,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,139dc8f6-7475-11ef-b4f9-87188d0101fez,"Sep 16, 2024",5e0a9b12-ea54-11ef-b08d-4b5ae661f97d,"4,731.66",Irs,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,13a275d4-01a8-4dac-a991-ac880a940799z,"Aug 7, 2024",5e09064e-ea54-11ef-b08d-3b023ce35269,36.45,Amazon,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,13a8311a-a8ab-11ee-bf9a-dfbf57917363z,"Jan 2, 2024",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,29.84,Webflow,mapping categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,13b13fe4-ea68-11ef-825b-3178ea3de60aq,"Feb 14, 2025",51c60ef6-faab-11ef-9602-071ee06520f3,10.51,Tesla,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,13c80f22-ff70-11ef-b959-17f4b55902c6t,"Mar 13, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,13d01124-6d7f-11ee-81a9-4ba4b68e24f7z,"Oct 18, 2023",0c144b0c-f092-11ef-ad89-cff85491c575,"1,564",Rush Pcb,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,13f18520-f0b9-11ef-a1d9-f774d35ceab6t,"Feb 22, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,1418d32b-5093-4f61-a009-aba1be5f4015q,"Mar 29, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,47,Instantly,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,14591436-4069-414e-ba88-d98841fe221ez,"May 15, 2024",5e082206-ea54-11ef-b08d-57ad080a7534,900,Facebook,mapping categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,145eeb44-58ab-11ee-aba3-e34154c8adacz,"Sep 22, 2023",e8f73cec-fe60-11ef-8cb8-ab6c4cbfe295,122.59,Paperless Post,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,146cf3b0-ad92-11ee-ae88-978e60ec3763z,"Jan 8, 2024",5e0abbf6-ea54-11ef-b08d-afba3371d194,20.19,Stamps.Com,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,147563e0-d2a5-11ef-8c89-bf7c219eeac8q,"Jan 14, 2025",51c5dabc-faab-11ef-9602-2f4e58e195a1,"40,000",Auto Routing,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,1478840c-047e-11f0-919b-6bb45eea155ft,"Mar 19, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,14915b94-d201-11ef-be08-efab468ee54fq,"Jan 13, 2025",51c60ef6-faab-11ef-9602-071ee06520f3,700,U.S. Bank N.A.,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,149f9d4a-f2da-11ef-9cd5-d3e446ac44d5t,"Feb 25, 2025",b386550a-1628-11ef-ae6b-0f7bc6a08613,50.4,Upwork,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,14a6cdd6-1fda-4c25-bcb9-ea63e319ade8q,"Mar 5, 2024",51c529b4-faab-11ef-9602-9f3703026526,208.79,Tst St. Anselm,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,14b4f15e-f226-11ef-9f44-6d346c1d8fe8t,"Feb 24, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,14b5c19a-e8e6-11ef-96e9-8df95593e88dq,"Feb 12, 2025",51c5f4ca-faab-11ef-9602-eb71d1d7d245,26.99,United Airlines,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,14c6502c-ed6f-11ef-8b1c-510fbdfb0a90t,"Feb 18, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,14cc7c47-13a6-4cee-a510-0e6e6f16c422q,"Jul 3, 2024",51c529b4-faab-11ef-9602-9f3703026526,4.25,Cibo Express,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,14dd4840-42f2-11ef-bab6-7f28635f6c49q,"Jul 15, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,80,Stripe,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,14ee1172-e0ca-11ef-9171-3d8e14eecd35q,"Feb 2, 2025",51c60ef6-faab-11ef-9602-071ee06520f3,16.5,Tesla,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,14ee2270-7473-11ef-bc4b-67cbc72bb384q,"Sep 16, 2024",51c5bd02-faab-11ef-9602-0b194a6373b1,"1,000",Gusto,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,14efda16-f9cf-11ef-a04e-07b758eff33bq,"Mar 6, 2025",51c61432-faab-11ef-9602-9367dc148211,4.5,Tesla,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,1500932b-8c89-4ad2-8f74-721c31334b65z,"Jul 12, 2024",e8f73cec-fe60-11ef-8cb8-ab6c4cbfe295,"2,062.5",Pollfish,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,150362f2-7ffe-11ef-8cd5-416377f109bbz,"Oct 2, 2024",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,52.92,Jotform,mapping categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,1516be8e-3071-11ee-b35a-83170fb9d14fz,"Aug 1, 2023",3435b838-fe5b-11ef-9135-9703c6a0407d,500,Miranda Barrigas,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,152ea1a2-fae6-11ef-8ab0-a36e6466f58ft,"Mar 7, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,1533431e-f7cc-11ef-b9c1-5d98daecf4a9t,"Mar 3, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,153af422-e815-11ef-b774-89b59d01e699q,"Feb 12, 2025",51c5f81c-faab-11ef-9602-034dd94120e6,40.88,Uber,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,1542cc4c-48e0-4ee1-8b8e-c5c67008b518q,"Aug 4, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,0.63,Air Ai,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,15802290-6a03-48ca-ac42-824242415bceq,"Jun 11, 2024",51c52da6-faab-11ef-9602-1b5151ad1ee3,70.05,Uber Eats,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,1582e8c0-7a6c-11ef-8881-8be16cf6dfbdz,"Sep 25, 2024",1584dd2e-fe65-11ef-8e74-d71b5325c039,"4,798.5",Upwork,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,1589ea88-0f24-11f0-a0ae-853e266882f2t,"Apr 2, 2025",b386550a-1628-11ef-ae6b-0f7bc6a08613,19,Death To Stock,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,15affef0-fae6-11ef-a70e-93007bc4b3a0t,"Mar 7, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,15c2b282-c802-11ef-8a79-7b92ba0e12b1z,"Jan 1, 2025",5e0a4c84-ea54-11ef-b08d-b78074d1165e,77.15,Mercury Io Cashback,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,15c4592e-f076-11ef-9ceb-6b7cfca4c6eat,"Feb 22, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,15c70608-847c-11ef-98ab-491416268b3ez,"Oct 7, 2024",5e082206-ea54-11ef-b08d-57ad080a7534,266.4,Facebook,mapping categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,15d3c206-0a70-11f0-9f9b-35f5ab7efabct,"Mar 27, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,15d6ec75-61f4-40ff-9d81-897d2c4f0641q,"May 25, 2024",51c52da6-faab-11ef-9602-1b5151ad1ee3,24.5,Uber Eats,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,15e21ae6-a095-4b3b-90ff-a41027b27becq,"Mar 6, 2024",51c5685c-faab-11ef-9602-0754c6774a51,36,Brooklyn Boulders Qb,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,15f339d9-fb09-42aa-904d-8bb58f66b424q,"Mar 13, 2024",51c60ef6-faab-11ef-9602-071ee06520f3,8.8,Tesla,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,160f78b9-76f0-4092-802b-515e7e2c6a20q,"Jul 2, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,144,Google Workspace,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,1641bc1a-f3a6-11ef-82fe-2d5bf8e6b1d9t,"Feb 26, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,16718d22-b803-11ed-b363-07fe787003f4z,"Mar 1, 2023",1585402a-fe65-11ef-8e74-8ff8842771a5,14.99,Canva* I03711-12908280,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,167d6daa-c462-11ef-8423-2bdf550c6376q,"Dec 28, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,500.28,Openai,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,169c0b34-1c8a-4510-ae6e-393072538bd7q,"Sep 10, 2024",51c5685c-faab-11ef-9602-0754c6774a51,57.57,Amazon,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,1719ffea-a8da-4f71-a2a6-23570b1ae1b2q,"Mar 28, 2024",51c52da6-faab-11ef-9602-1b5151ad1ee3,63.96,Edible Arrangements,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,171ffb18-fede-11ef-9b66-b12d81c52b0bt,"Mar 12, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,172e0d73-7666-42b0-81fa-0de80d05addaz,"Mar 23, 2024",0c144b0c-f092-11ef-ad89-cff85491c575,"1,774.65",Mouser Electronics,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,1757d5d0-e0a5-11ef-9960-f13dbddcb6e7q,"Feb 2, 2025",51c5b230-faab-11ef-9602-a73b7ca86f47,140.47,Google Workspace,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,177e8490-f62c-11ef-a7ee-6f3053fcb947z,"Feb 28, 2025",5e09064e-ea54-11ef-b08d-3b023ce35269,91,Wf Credit Card,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,179c3b48-f659-11ef-aa2c-373e178f4ffbt,"Mar 1, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,17b7c078-0916-11f0-ada3-bf64bd938e3et,"Mar 25, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,17bc9658-4f9d-11ef-adf3-f3ac9b901361z,"Aug 1, 2024",5e087e2c-ea54-11ef-b08d-2f2b4b0f2a4c,"18,690.94",Mercury Checking ••1769,mapping categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,17bdab56-4f9d-11ef-adf3-378039371627z,"Aug 1, 2024",5e087e2c-ea54-11ef-b08d-2f2b4b0f2a4c,"18,690.94",Mercury Credit,mapping categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,17c96403-3bae-4151-9789-33fb73e97eecq,"Apr 20, 2024",51c52da6-faab-11ef-9602-1b5151ad1ee3,26.59,Uber Eats,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,17d32117-e438-4152-bae4-411a9f7d1e8eq,"Aug 7, 2024",51c529b4-faab-11ef-9602-9f3703026526,42.45,Playa Bowls,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,17e51397-b4bc-464b-b750-2f5af9568369z,"Aug 2, 2024",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,29.84,Webflow,mapping categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,17ef3132-46fa-11ee-aa08-f37b705602f0z,"Aug 30, 2023",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,31.39,Shutterstock,mapping categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,17f606a0-f703-11ef-baf3-f7b2212b17ect,"Mar 2, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,1809559a-fe54-11ef-9217-974512d25aa6z,"Mar 11, 2025",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,66,Canva,mapping categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,180c7a6f-cd07-41d2-8c57-5a33611952d2z,"May 21, 2024",1585402a-fe65-11ef-8e74-8ff8842771a5,15.99,Klaviyo,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,181d2ef8-b67e-11ef-9298-d75f785dc760z,"Dec 9, 2024",5e09064e-ea54-11ef-b08d-3b023ce35269,"16,480.4",Amex Epayment,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,18214010-21ba-11ee-b2c7-4b51dd393fefz,"Jul 14, 2023",5e09064e-ea54-11ef-b08d-3b023ce35269,11.9,Amazon,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,1824351a-3b16-11ef-9a5b-f76e3a00ebd7z,"Jul 5, 2024",3435b838-fe5b-11ef-9135-9703c6a0407d,"1,085",Cover Desk Llc,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,182f4f40-4f9d-11ef-aab9-635583d5cf66z,"Aug 1, 2024",5e0a4c84-ea54-11ef-b08d-b78074d1165e,280.32,Mercury Io Cashback,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,182fd9f0-afed-11ef-aa7e-c15cdd3bd953z,"Dec 2, 2024",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,29.84,Webflow,mapping categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,184667c2-0783-11f0-afae-6f3af5f287d4t,"Mar 23, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,185e5640-b290-11ef-8a08-abb914b91181z,"Dec 4, 2024",1585402a-fe65-11ef-8e74-8ff8842771a5,10.83,Stripe,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,18749916-faf0-11ef-9feb-a31da4e7c5bet,"Mar 7, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,187dfeec-f899-11ef-8a0e-c7431ea9eafat,"Mar 4, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,188518ec-106f-11f0-85cc-a7b37556186et,"Apr 3, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,7.25,Chargeflow,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,188991ca-2051-4bae-93b3-df575cda9725q,"Jun 3, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,7.92,Amazon Web Services,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,189551a2-05cb-11f0-9f76-175aa9bb22b5t,"Mar 21, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,18a48cc0-da75-11ef-8f04-0d787431856bq,"Jan 25, 2025",51c60ef6-faab-11ef-9602-071ee06520f3,9.44,Tesla,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,18f988e6-3072-11ee-adb6-3b88d5093dd6z,"Aug 2, 2023",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,29.84,Webflow,mapping categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,18fa3b2e-19c0-11ee-b999-07250483b366z,"Jul 3, 2023",0c144b0c-f092-11ef-ad89-cff85491c575,"14,000",Gembah,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,18fc3bea-ff83-11ef-aca2-793048c0a74at,"Mar 13, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,191aca26-0739-11ef-95d5-b7d8f4b66287q,"Apr 30, 2024",51c5c0b8-faab-11ef-9602-f31b0f46363c,"5,972.08",Gusto,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,1951d8c0-13a6-11f0-8e44-933650ab3c0bt,"Apr 8, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,73,Webflow,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,195f62e0-6c81-4a7a-876e-773d8f073fefq,"Mar 5, 2024",51c529b4-faab-11ef-9602-9f3703026526,359.4,Py Tin Building By Je,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,198122fb-db58-434c-bb68-9b8fc63cd9e8z,"Mar 13, 2024",1585402a-fe65-11ef-8e74-8ff8842771a5,39,Remove.Bg,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,19976ddd-0b85-4901-af17-0318c7f4010ez,"Aug 1, 2024",5e08a0d2-ea54-11ef-b08d-d7409f4338cb,908.45,Coverstore.Com,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,199cacbe-6917-11ee-9634-279b11028271z,"Oct 13, 2023",158465a6-fe65-11ef-8e74-4f092d5593c6,150.47,Stax Texas Custom D,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,19abf278-fb10-11ef-8752-e12ecefcd933t,"Mar 7, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,19b259c5-f51c-4122-a56e-d2b7d1da430cq,"Aug 14, 2024",51c5685c-faab-11ef-9602-0754c6774a51,1.95,Resume.Co,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,19c28f28-f571-11ef-95d4-9b5d01c03e5ft,"Feb 28, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,19da0e02-fbaf-11ef-947d-eb4189b59368t,"Mar 8, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,19e6984e-5628-11ee-b609-d76695bb3c9cz,"Sep 18, 2023",3435b838-fe5b-11ef-9135-9703c6a0407d,"2,000",Patricia Mccune,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,1a05dbaa-8c3b-4497-a33f-c85a8c559856z,"Aug 6, 2024",0c144b0c-f092-11ef-ad89-cff85491c575,33.22,Mouser Electronics,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,1a34e514-ee23-11ef-8cd6-cdf7e43b927et,"Feb 19, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,56.47,Hirevire,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,1a39eca1-1e5e-4ba8-98af-e61cd3288a47q,"May 23, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,300,Sakari Sms,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,1a3e7d56-9e2b-11ef-9406-9130a80eedc3q,"Nov 9, 2024",51c60ef6-faab-11ef-9602-071ee06520f3,19.91,Tesla,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,1a4e29f2-0f77-11ee-b364-4387cd012072z,"Jun 20, 2023",3435b838-fe5b-11ef-9135-9703c6a0407d,500,Miranda Barrigas,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,1a59df84-051d-11f0-ba96-e3a0fb568119t,"Mar 20, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,1a6c76c4-ec88-11ef-aa84-2b0bc2295feet,"Feb 17, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,1a72df91-1ec4-4c0f-947a-626678706d8eq,"Sep 8, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,35,Gmass,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,1a8d30be-f5ff-11ef-a369-afdc00c14766q,"Mar 1, 2025",51c5b230-faab-11ef-9602-a73b7ca86f47,500.1,Openai,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,1aa87724-287f-11ee-bd82-0b150eecb5afz,"Jul 22, 2023",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,74.62,Autodesk ,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,1abbbc8c-ccaa-11ef-b068-07f5d02b57d8z,"Jan 7, 2025",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,20.19,Stamps.Com,mapping categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,1abf38cd-c00e-434b-a231-e141b4fddb54z,"Jun 27, 2024",0c144b0c-f092-11ef-ad89-cff85491c575,182.72,Xometry.Com,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,1acae7ce-0207-11f0-a6ac-bf8fd1b58ba4t,"Mar 16, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,1acc53c2-4423-4bbb-b101-bc004bb40b33q,"Mar 5, 2024",51c529b4-faab-11ef-9602-9f3703026526,64.12,Tst Brooklyn Eat,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,1acd09e5-6bf4-483e-9062-8657509c17fcz,"Apr 29, 2024",5e082206-ea54-11ef-b08d-57ad080a7534,900,Facebook,mapping categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,1ace08d6-efbc-11ee-9c1a-9b5ae7e20134z,"Apr 1, 2024",5e0a4c84-ea54-11ef-b08d-b78074d1165e,156.24,Mercury Io Cashback,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,1af04d7a-4d72-11ee-a69a-c34b670e0786z,"Sep 8, 2023",5e082206-ea54-11ef-b08d-57ad080a7534,50,Facebook,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,1af282eb-afd5-4fa7-b6ac-0185f7826ee3q,"Aug 12, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,20,Claude.Ai,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,1b152334-166e-4d95-b341-1a8e08a8e089q,"Mar 5, 2024",51c5f81c-faab-11ef-9602-034dd94120e6,31.88,Uber,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,1b2677c0-78c3-11ee-a7eb-b7e75ae063ebz,"Nov 2, 2023",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,14.05,Fc Flaticon Premium M,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,1b3e9f9e-82fe-11ef-a555-cffeae93ce14z,"Oct 6, 2024",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,267.34,Shopify,mapping categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,1b51de9e-15d4-11ee-b76f-b77f670eb296z,"Jun 29, 2023",5e09064e-ea54-11ef-b08d-3b023ce35269,12.72,Amazon,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,1b57bade-f882-11ef-a584-2f58ea258ad4z,"Mar 3, 2025",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,262.23,Intuit *,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,1b633098-d394-11ef-b835-bb018c6956deq,"Jan 15, 2025",51c5bd02-faab-11ef-9602-0b194a6373b1,"14,437.71",Gusto,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,1b65bc3a-7df1-11ef-8e1f-8d65f7b70bc9q,"Sep 29, 2024",51c610b8-faab-11ef-9602-efe95e6091e2,26.25,Metropolis Parking,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,1b678866-9afd-11ef-b5f6-47626fea6f62z,"Nov 4, 2024",1585402a-fe65-11ef-8e74-8ff8842771a5,10.83,Stripe,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,1b86ce24-a073-4b65-8d65-7fa9c3b17708q,"May 2, 2024",51c52da6-faab-11ef-9602-1b5151ad1ee3,5.58,Uber Eats,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,1ba90bf6-9210-11ef-a14b-4da738ea8accz,"Oct 25, 2024",1585402a-fe65-11ef-8e74-8ff8842771a5,47.97,Klaviyo,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,1bd5f914-0a82-11f0-b17e-817cbbe62c63t,"Mar 27, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,1be46be0-fb8a-11ef-89b0-ebf7e3829667z,"Mar 7, 2025",32cb8e30-aa7b-11ee-ba20-5b00560b43f2,541.22,Shopify,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,1bf1e20a-972b-4caa-a71f-0958fc673a92q,"Jul 4, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,300.44,Openai,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,1bf9de2e-6a3c-11ef-8874-6f47820c33c1z,"Sep 3, 2024",1585402a-fe65-11ef-8e74-8ff8842771a5,6.6,Intuit,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,1bff08c4-34c8-436e-a9e1-64273d4d6bc0z,"Jul 5, 2024",5e082206-ea54-11ef-b08d-57ad080a7534,500,Google,mapping categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,1c185452-f205-11ef-a661-c90caf980189z,"Feb 24, 2025",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,30.91,Webflow,mapping categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,1c21e29c-d7e0-11ed-8281-fb90e860acb0z,"Apr 11, 2023",5e09064e-ea54-11ef-b08d-3b023ce35269,177,Kevin Long,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,1c43095b-717c-443e-91f9-80b66d6fe6f6z,"Sep 11, 2024",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,21.28,Openai,mapping categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,1c4d6218-f7a6-11ef-acb7-ab12c883e622t,"Mar 3, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,1c5412f2-d277-11ee-8b71-43ef18b91cb7z,"Feb 23, 2024",0c144b0c-f092-11ef-ad89-cff85491c575,"4,132.5",Gembah Inc,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,1c56b68b-2ff4-4575-bd1d-4f9a30cee448q,"Mar 14, 2024",51c60ef6-faab-11ef-9602-071ee06520f3,12,Tesla,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,1c60ba9c-692c-4b16-a3de-a0a9707dd982q,"Jun 26, 2024",51c60ef6-faab-11ef-9602-071ee06520f3,17.16,Tesla,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,1c6813a2-043c-405f-981b-b22537cd5443z,"Aug 14, 2024",5e09064e-ea54-11ef-b08d-3b023ce35269,16.8,Amazon,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,1cac7bd6-feb8-11ef-b4e9-9174b380ffcet,"Mar 12, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,1cb0ea7c-0a52-11f0-b530-579245d9cfb6z,"Mar 27, 2025",5e09064e-ea54-11ef-b08d-3b023ce35269,12.87,Amazon,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,1ce25b6a-bbb1-11ef-8b15-f7602d0cae63z,"Dec 17, 2024",5e09064e-ea54-11ef-b08d-3b023ce35269,13.2,Amazon,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,1d02bbc0-87f0-11ef-8299-ddb21cabf5f1z,"Oct 12, 2024",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,25.32,Printful,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,1d036082-7d9d-11ef-88dc-49642507c3b0q,"Sep 29, 2024",51c60ef6-faab-11ef-9602-071ee06520f3,2.82,Tesla,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,1d0c99d0-0502-11f0-9b7f-c5d8e7b2df3ft,"Mar 20, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,1d1a5a3e-b4b7-11ef-800e-e9bce66a1bf2z,"Dec 8, 2024",1585402a-fe65-11ef-8e74-8ff8842771a5,18,Videsigns Ltd,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,1d1fad98-ebe3-11ed-b34f-6f0e12d9d049z,"May 6, 2023",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,41.57,Shopify,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,1d228e6a-5fbe-11ee-a7b5-63a5b93f0594z,"Oct 1, 2023",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,32.46,Adobe,mapping categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,1d311358-d03f-4953-8d6c-33a651345018q,"Apr 3, 2024",51c61432-faab-11ef-9602-9367dc148211,12.31,Wawa,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,1d49b719-5f12-4453-be43-d769ac9ac8eaq,"May 12, 2024",51c60ef6-faab-11ef-9602-071ee06520f3,11.88,Tesla,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,1d6d99cc-6848-11ee-af70-a76df364bb4cz,"Oct 12, 2023",0c144b0c-f092-11ef-ad89-cff85491c575,70.5,I03935,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,1d95497e-f896-11ef-8022-bfd27c25b29et,"Mar 4, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,1db76b8e-799a-11ee-9003-3373f6ffaf7az,"Nov 3, 2023",0c144b0c-f092-11ef-ad89-cff85491c575,263.9,Mouser Electronics,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,1dc61094-08d2-11f0-91f5-7dbf3bcd4e58t,"Mar 25, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,1dc94de0-f07c-11ef-9427-c506583903e6z,"Feb 22, 2025",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,40.51,Github,mapping categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,1dd60af4-03ae-11f0-a248-5f18b7aa74eat,"Mar 18, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,60,Openai,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,1dd7786a-f627-11ef-a7e2-07f57ccbfcabq,"Feb 28, 2025",51c5ee12-faab-11ef-9602-0f5588d668f5,"7,458.64",Gusto,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,1e1d575c-f241-11ef-abde-ef4feec3fca6t,"Feb 24, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,1e408394-0f80-11ee-8b2b-3f1936796b6cz,"Jun 20, 2023",0c144b0c-f092-11ef-ad89-cff85491c575,"5,250",Gembah,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,1e467f72-1170-11ef-92eb-1ff312436749q,"May 13, 2024",51c5bee2-faab-11ef-9602-f328b191844c,"2,000",Gusto,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,1e49ff87-7ea6-4927-81f9-017c593f86ceq,"Apr 16, 2024",51c61432-faab-11ef-9602-9367dc148211,17.43,Sap Management,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,1e5ccae8-cc1f-11ee-8155-27d717402bdbz,"Feb 16, 2024",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,15,Loom,mapping categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,1e6053c4-a5ab-11ee-a117-ff5074a02792z,"Dec 29, 2023",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,63.84,Midjourney,mapping categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,1e63c6ae-cc4b-11ef-8fa3-71a11ea3d7f5z,"Jan 7, 2025",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,58,Shutterstock,mapping categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,1e65b086-ec8f-11ef-aab2-819ddbc01bbfq,"Feb 17, 2025",51c5b230-faab-11ef-9602-a73b7ca86f47,10,Github,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,1e6f9dd0-36f9-41cd-bf12-88d87f0482daq,"Jun 23, 2024",51c5f4ca-faab-11ef-9602-eb71d1d7d245,390.95,United Airlines,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,1e826e4a-930e-426f-a3e8-c742740035c2q,"Jul 2, 2024",51c529b4-faab-11ef-9602-9f3703026526,803.66,Artesano,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,1e8901f8-9c67-11ef-a894-932e26aa314cz,"Nov 6, 2024",62cd09a4-fe5f-11ef-b2ed-a728f4845b80,506.71,"Progistics Distribution Llc, Concentration Account",manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,1ea6e85e-0670-11ef-8ab6-67a0e1a1edc8z,"Apr 29, 2024",5e0c04a2-ea54-11ef-b08d-7b26fb8e554d,"3,521.21",Intuit 27526697,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,1ecef5da-5052-11ee-b040-1b8c57846667z,"Sep 11, 2023",32cb8e30-aa7b-11ee-ba20-5b00560b43f2,9.41,Stripe,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,1ee4dabe-ff81-11ef-a4ed-4152cca9033dt,"Mar 13, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,1f034e42-a666-11ee-a877-2f974b4c1160z,"Dec 30, 2023",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,86.59,Adobe,mapping categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,1f0aeaae-1a0c-4293-b7f9-a9ba6e789bb6q,"Aug 1, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,300.21,Openai,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,1f11a864-fd4c-11ef-9558-1d5035b90b86t,"Mar 10, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,1f150920-09d4-11f0-990a-b7f4c6f3c94ft,"Mar 26, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,1f1f3060-e45d-401a-93bb-5da091345828z,"Aug 29, 2024",1585402a-fe65-11ef-8e74-8ff8842771a5,39,Magnific Ai,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,1f2e1b82-f182-11ef-b424-c78939eb2a6et,"Feb 23, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,1f550906-a3b2-11ed-b748-bb4d72873c39z,"Feb 3, 2023",ec8776f8-fe59-11ef-a321-0bbd518110a1,"5,000",Gary Tesch,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,1f5537cc-87eb-11ef-83c6-93890e641112z,"Oct 14, 2024",5e08a0d2-ea54-11ef-b08d-d7409f4338cb,"1,461.94",Dciwww.Coverstore.Com,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,1f71fee2-f85d-11ef-abf7-ab7b17181ebft,"Mar 4, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,1fcb2314-b88e-11ef-9905-832ae8981bedz,"Dec 12, 2024",32cb8e30-aa7b-11ee-ba20-5b00560b43f2,869.34,Intuit 88462573,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,1fd15e0c-ceb2-11ef-b3f9-5d4cfc6018ffq,"Jan 10, 2025",51c5b230-faab-11ef-9602-a73b7ca86f47,21.99,Godaddy,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,1fd67f40-b0fd-11ef-9944-f3af765cf07eq,"Dec 2, 2024",51c4ebde-faab-11ef-9602-57fb74d25bf9,709.17,The Guardian,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,1fee85d4-8184-11ef-bc35-2347ea3c3975z,"Oct 3, 2024",32cb8e30-aa7b-11ee-ba20-5b00560b43f2,"1,086.66",Intuit 09745213,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,20080690-04f0-11f0-bad5-0f822c716e65t,"Mar 20, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,200dd9b4-fd14-11ef-99b7-6f75fb6f7555t,"Mar 10, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,2015c108-9d31-11ef-8fed-813be7dea7e5q,"Nov 9, 2024",51c610b8-faab-11ef-9602-efe95e6091e2,47,100 Pearl Street Gar,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,20184671-96b1-4ac4-b107-3fba312f9309z,"Aug 23, 2024",32cb2e9a-aa7b-11ee-ba20-47ce482162e6,415,Py Amazing Spaces Vi,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,202d6540-9d24-11ef-a6ef-f532fde42f4fz,"Nov 8, 2024",1585402a-fe65-11ef-8e74-8ff8842771a5,18,Videsigns Ltd,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,204ef9de-1784-11ee-bed9-5396f3ecdf6fz,"Jun 30, 2023",ec8776f8-fe59-11ef-a321-0bbd518110a1,"50,000",Richlund Capital Llc,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,206143e0-4bd8-11ee-b727-6718ca885eedz,"Sep 5, 2023",5e09064e-ea54-11ef-b08d-3b023ce35269,150,The Home Depot,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,206ec7f2-7c53-11ef-8579-43345beb8eb9q,"Sep 28, 2024",51c5f31c-faab-11ef-9602-338b2de08104,82.39,United Airlines,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,2075e576-fb94-11ef-ab9c-a945832dce29t,"Mar 8, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,20776450-0d79-411c-8968-593b8c8f0576q,"Aug 8, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,20,Claude.Ai,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,2079b326-676c-11ee-b9d5-cbfa8df1e105z,"Oct 10, 2023",5e09064e-ea54-11ef-b08d-3b023ce35269,"15,194.41",Amex Epayment,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,20819ada-041b-11f0-b4a3-5d6d2f41159et,"Mar 19, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,208fe344-ea74-11ef-8fae-37794493d818t,"Feb 14, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,20aa3b9e-fa01-11ef-baa7-27f33bec6751t,"Mar 6, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,20acb144-97c3-11ef-8e9b-afaf3c70a8c1z,"Nov 1, 2024",5e082206-ea54-11ef-b08d-57ad080a7534,900,Facebook,mapping categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,20becc5e-036f-11f0-a234-7bc1b59192c1t,"Mar 18, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,20d0fea8-0b4c-11f0-95c1-475eb4f90ac6t,,934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,20d41948-4650-11ee-85c0-1bd1cdfaf8dfz,"Aug 30, 2023",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,86.59,Adobe,mapping categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,20fc3f9c-ff9d-11ef-a556-9b62964bdb7at,"Mar 13, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,21025843-02c1-4471-a933-4746f9c3700ez,"Jun 2, 2024",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,187.16,Google Workspace,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,21153ebf-54da-44e6-801c-4faf66808dafz,"Apr 4, 2024",5e082206-ea54-11ef-b08d-57ad080a7534,500,Google,mapping categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,21186e1c-7ff3-11ef-ab17-ef3223d19449q,"Oct 3, 2024",51c5f682-faab-11ef-9602-f766fd8a6597,16.33,Renaissance Hotels,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,213b7f7a-6a9f-11ee-b799-07df34173b6az,"Oct 15, 2023",5e082206-ea54-11ef-b08d-57ad080a7534,900,Facebook,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,2151f258-d7d4-11ee-a7ad-2bda983e876dz,"Mar 1, 2024",3435b838-fe5b-11ef-9135-9703c6a0407d,"2,000",Payroll,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,21552096-9574-11ef-9d46-0bc82c972920q,"Oct 28, 2024",51c61432-faab-11ef-9602-9367dc148211,9.99,Tesla Motors,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,215852e8-fab9-11ef-9c43-1bb33e4859a7t,"Mar 7, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,215c8774-2f4d-11ef-afee-8b08a042762fz,"Jun 20, 2024",3435b838-fe5b-11ef-9135-9703c6a0407d,"2,000",Payroll,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,216f1638-0935-11f0-a5b9-cf050e3fca64t,"Mar 25, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,21883ca2-90c3-11ef-aed0-85b002a425a3q,"Oct 23, 2024",51c61432-faab-11ef-9602-9367dc148211,16.85,Wawa,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,218ecf42-e981-11ef-a0ac-c1843f91200bt,"Feb 13, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,2198ebc0-0395-11f0-ba01-85d77883d0b3t,"Mar 18, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,21b2e32f-69fd-4a85-8fbf-50825092dca5q,"May 2, 2024",51c60ef6-faab-11ef-9602-071ee06520f3,22,Tesla,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,21cdfc5a-7ced-11ee-b3d4-f763203bc8d9z,"Nov 7, 2023",5e09064e-ea54-11ef-b08d-3b023ce35269,17.2,Amazon,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,21e041a6-d8f1-11ef-8bfe-7f3d874e269fz,"Jan 23, 2025",32cb2e9a-aa7b-11ee-ba20-47ce482162e6,415,Amazing Spaces,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,21fd32c3-c8c9-4314-a907-c7e8145ae6a5q,"Mar 20, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,50,Payprous.Com,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,21ff1c18-e431-4b71-8b82-f526db2da1bcq,"Jul 28, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,7.13,Air Ai,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,2214ccb4-ffa7-11ef-bff9-13db2c3c6aa4t,"Mar 13, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,222a043d-5c3e-4dfe-8fa4-6e7a6e45234aq,"Jun 29, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,150,Sakari Sms,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,226c7021-83cf-4248-a657-a30af384ec2eq,"Jul 12, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,29.78,Sentry,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,228962aa-d5db-11ee-8235-173554ea5a47q,"Feb 28, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,200,Google Cloud,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,22b1f219-04ff-4388-a523-4f080dec4f08z,"Sep 12, 2024",5e0abbf6-ea54-11ef-b08d-afba3371d194,100,Endicia,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,22b92d23-476b-4adc-8d57-05734ae7c981z,"Aug 22, 2024",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,90.61,Autodesk ,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,22c281dc-bfec-4f14-9bf1-76b89df37997q,"Mar 23, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,44.99,Numlookupapi.Com,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,22c3202e-87e9-11ef-83e2-d78f5121efc7q,"Oct 12, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,10,Vapi Api,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,22ce14e0-194c-11ef-b5c6-9b7b94c70209q,"May 23, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,120,Stripe,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,22da4c07-476a-4785-a20a-cdde9ec133beq,"Jul 19, 2024",51c610b8-faab-11ef-9602-efe95e6091e2,11,Claridge House Garage,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,22db4d54-be9d-11ee-8ffc-2fa7bb237887z,"Jan 30, 2024",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,86.59,Adobe,mapping categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,22f68cba-dced-44be-8a80-69153f8cf9cfz,"Jun 2, 2024",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,29.84,Webflow,mapping categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,232e8c64-eff0-11ef-b08c-87de7512d3b0t,"Feb 21, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,233b600a-0c20-11f0-bce7-5bea71c3a011z,"Mar 28, 2025",5e09064e-ea54-11ef-b08d-3b023ce35269,90,Wf Credit Card,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,233d8a32-e7f0-11ef-bfcd-e142bc5d5fddq,"Feb 11, 2025",51c5b230-faab-11ef-9602-a73b7ca86f47,30,Grammarly,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,23488144-b82c-11ed-b559-837eb753bd3bz,"Mar 1, 2023",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,38.38,Google *Gsuite_Outmoreliv,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,23640f64-09b9-11f0-a4cd-eff040517148t,"Mar 26, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,23794f0c-4bc2-11ee-b006-5b29145812d7z,"Sep 5, 2023",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,37.19,Shopify,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,23a137fc-044d-11f0-954f-9d458e797e6dt,"Mar 20, 2025",b3874bfe-1628-11ef-ae6b-bfa502cd9112,104.9,Jetblue Airways,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,23b15e42-1c61-4210-868e-b1bb56322fc6z,"Apr 17, 2024",1585402a-fe65-11ef-8e74-8ff8842771a5,1,Gumrd.Com,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,23baa6b8-8d13-11ee-a0b4-97695ae204a3z,"Nov 28, 2023",0c144b0c-f092-11ef-ad89-cff85491c575,15.79,Digi-Key Electronics,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,23cbf6f0-090b-11f0-8cb2-518dee91ea38t,"Mar 25, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,23cd2b8c-8875-11ee-bee4-9ba5599baf3cz,"Nov 21, 2023",3435b838-fe5b-11ef-9135-9703c6a0407d,750,Payroll,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,23d96e52-44e0-11ee-8f53-e7b8677d6069z,"Aug 28, 2023",1585402a-fe65-11ef-8e74-8ff8842771a5,9.99,Photoroom,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,23d9f4c4-431a-41a0-82c1-f659375e4075q,"May 22, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,500,Sakari Sms,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,23dd9fb8-a755-425a-b128-858c56f97b1cq,"Apr 7, 2024",51c4b920-faab-11ef-9602-afe0bfabd005,71.07,Linkedin,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,240bdf56-68fb-11ee-9b96-cff81661c3dbz,"Oct 12, 2023",32cb8e30-aa7b-11ee-ba20-5b00560b43f2,193.6,Stripe,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,240c744a-7ace-4c9a-b62b-ecbc595657c6z,"Jun 18, 2024",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,9.9,Azwedo.Com,mapping categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,24105ed9-c4a7-4841-902a-2dcdcffd2636q,"May 12, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,29,Sentry,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,2417a410-891e-11ee-989a-0f0ba8689a2dz,"Nov 22, 2023",e8f73cec-fe60-11ef-8cb8-ab6c4cbfe295,6.93,Mailchimp,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,2444155a-2c84-11ee-a27b-4faf682eb5a4z,"Jul 28, 2023",1585402a-fe65-11ef-8e74-8ff8842771a5,9.99,Photoroom,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,2450c72c-c95a-11ef-a328-070d640ae985z,"Jan 2, 2025",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,253.7,Intuit *,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,246d41f2-0070-11f0-96cf-3136228068d7t,"Mar 14, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,24758678-9865-11ef-ab53-553018df2e42q,"Nov 2, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,127.67,Google Cloud,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,247d7070-ed8a-11ef-807b-293f04e58d6dt,"Feb 18, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,249bd6ba-5deb-4820-a740-fbb28afba343q,"Jul 1, 2024",51c61432-faab-11ef-9602-9367dc148211,32.04,Wawa,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,24a0cad2-eb25-11ef-9c42-252bafddc4fet,"Feb 14, 2025",b3806262-1628-11ef-ae6b-93809737fb6a,142.33,Best Buy,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,24b31950-67a8-11ee-9d0a-6fb608abb905z,"Oct 12, 2023",0c144b0c-f092-11ef-ad89-cff85491c575,55.51,Lcsceles74u,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,24c3efc4-f3fb-11ef-b29b-b76dd0eeaa59q,"Feb 27, 2025",51c5b230-faab-11ef-9602-a73b7ca86f47,720,Monday.Com,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,24dce6a8-f4e5-11ed-ad5f-43433f8e866ez,"May 18, 2023",3435b838-fe5b-11ef-9135-9703c6a0407d,"1,877.69",Richard Murphy Studio,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,24e2f2b4-71a6-48be-847e-8956b5403db4z,"Jun 1, 2024",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,25.73,Printful,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,24e6fb30-f627-11ef-aac8-73ff50cd2818q,"Feb 28, 2025",51c5bd02-faab-11ef-9602-0b194a6373b1,"14,544.06",Gusto,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,24fe0480-ba66-49cb-bad1-f1b0e213512ez,"Jun 22, 2024",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,90.61,Autodesk ,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,25137a38-fb82-11ef-bb39-2d0d06847fa7t,"Mar 8, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,252a3e4c-cebb-11ef-940b-5939a3cbc718z,"Jan 10, 2025",5e09064e-ea54-11ef-b08d-3b023ce35269,14.96,Amazon,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,25340a2c-d694-11ef-aee3-c76c2beb8009q,"Jan 20, 2025",51c5b230-faab-11ef-9602-a73b7ca86f47,25,Bitwarden,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,254d670e-0671-11ef-bd7e-bb2522c6ae52z,"Apr 29, 2024",5e0c04a2-ea54-11ef-b08d-7b26fb8e554d,"3,083.82",Intuit 27526697,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,25562210-d1b3-11ee-8de6-ab4f6b98341dq,"Feb 23, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,5,Railway.App,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,259d75b0-f407-11ec-985b-67c78b401a46z,"Jun 24, 2022",ec8776f8-fe59-11ef-a321-0bbd518110a1,"25,100",Richlund Capital Llc,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,25e67d4b-33f2-4f81-9f2f-903d92259354q,"Mar 15, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,27,Us Business Data,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,25eaa62c-d394-11ef-ae1d-a3966ff56179q,"Jan 15, 2025",51c5ee12-faab-11ef-9602-0f5588d668f5,"7,874.9",Gusto,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,25ebf808-1e3d-4e28-a7a2-17cd514c19d2z,"Aug 25, 2024",1585402a-fe65-11ef-8e74-8ff8842771a5,17.28,Commoninja,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,25f7c73a-6e00-11ee-b6a9-4fbe7b1a1dafz,"Oct 19, 2023",0c144b0c-f092-11ef-ad89-cff85491c575,"1,197.8",Rush Pcb,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,262d07e8-edb0-11ef-a905-03243801e45at,"Feb 18, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,59,Apply Hero,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,263f9614-9fbe-11ef-8a63-03d839232a09z,"Nov 11, 2024",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,44.35,Printful,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,264625a0-0527-11f0-a12b-15019052cbcat,"Mar 20, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,2652a47c-1fde-11ee-ac54-fbd4031751a9z,"Jul 13, 2023",32cba1c2-aa7b-11ee-ba20-dfb359ff0c11,1.35,Alliex Vinasun Hcm,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,266f0676-efa8-11ef-9378-d1a12f856655t,"Feb 21, 2025",9349f658-162c-11ef-b2e6-33591961054a,78.58,Cheapairportparking,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,266f375e-8bf8-11ef-be54-0173abf859abz,"Oct 17, 2024",5e0abbf6-ea54-11ef-b08d-afba3371d194,200,Usps,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,266fff1c-9ebd-4b69-bb43-c6f7b9557bdbz,"Apr 7, 2024",1585402a-fe65-11ef-8e74-8ff8842771a5,21.32,Claude.Ai,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,26766835-3c9f-4822-b353-02b4a272ea96z,"Sep 8, 2024",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,19.15,Figma,mapping categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,26a55822-2252-11ee-a7f2-f7cf7bf6e34ez,"Jul 15, 2023",5e09064e-ea54-11ef-b08d-3b023ce35269,3.7,Cmsvend,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,26a5d00e-013a-11f0-88ca-53879f688815t,"Mar 15, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,26c4d710-5fb9-11ef-9e32-5bbcf4e716caz,"Aug 21, 2024",32cb8e30-aa7b-11ee-ba20-5b00560b43f2,"12,067.86",Shopify,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,26c6d91c-f5d1-11ef-942a-8bc3a8169e5ft,"Mar 1, 2025",b385f150-1628-11ef-ae6b-07e9c061b75f,20,Gympass,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,2709197e-f88a-11ef-9d28-0b031a86ca65t,"Mar 4, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,8,Calendly,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,271b95bb-3518-40f7-b88a-a77a45ba39acq,"Apr 23, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,302.22,Openai,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,273cdd10-fd4c-11ef-8513-6fec75c3cdect,"Mar 10, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,273e7e1a-34cd-11ef-919a-fb1f386d89b3z,"Jun 27, 2024",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,27,Shopify,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,27615975-ad9b-45ff-975c-3e5322c3ee21q,"Jul 17, 2024",51c60ef6-faab-11ef-9602-071ee06520f3,12.76,Tesla,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,2771b432-7db7-11ef-9954-0f4308c8a852q,"Sep 30, 2024",51c529b4-faab-11ef-9602-9f3703026526,102.01,The Smith Nomad,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,278c9c70-ec02-11ef-a746-89d5a1926dadt,"Feb 16, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,278ec60e-19b6-11ef-bf38-fbd23f5cfc7ez,"May 24, 2024",5e09064e-ea54-11ef-b08d-3b023ce35269,"9,651.59",Alex Duncan,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,27b0d1aa-e025-11ef-ab1d-2b2e8c70cef0q,"Jan 31, 2025",51c5bd02-faab-11ef-9602-0b194a6373b1,"14,534.64",Gusto,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,27c919c4-a540-4a72-be76-c911298a34d0z,"Jul 23, 2024",32cb2e9a-aa7b-11ee-ba20-47ce482162e6,415,Py Amazing Spaces Vi,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,27cea934-3d35-48da-af70-59287a42bfa0z,"Jun 29, 2024",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,86.59,Adobe,mapping categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,27f5250a-a4fa-11ef-b6da-2317b4c54b22z,"Nov 18, 2024",5e082206-ea54-11ef-b08d-57ad080a7534,900,Facebook,mapping categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,2814c92d-0838-47a6-86d9-9b6e46e09e49z,"May 2, 2024",5e082206-ea54-11ef-b08d-57ad080a7534,177.86,Google,mapping categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,2829783c-7f39-11ef-9bee-29e867026300q,"Oct 1, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,30,Sakari Sms,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,282c7c06-21e0-11ee-ad5f-f79028bf951ez,"Jul 17, 2023",5e09064e-ea54-11ef-b08d-3b023ce35269,0.94,Coca-Cola,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,283c53fa-8298-11ef-a034-47e56cc67ae4z,"Oct 4, 2024",1585402a-fe65-11ef-8e74-8ff8842771a5,13.3,Stripe,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,284091e8-f3e2-11ef-a55f-6bdd08b9bf29t,"Feb 26, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,285160fc-ae66-490c-9c29-3a9bb76fb810q,"Mar 7, 2024",51c5f81c-faab-11ef-9602-034dd94120e6,25.52,Uber,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,285f95cc-6570-11ee-a72a-0376edebf546z,"Oct 8, 2023",5e082206-ea54-11ef-b08d-57ad080a7534,900,Facebook,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,28a25990-e41b-11ef-b5af-73f54512491aq,"Feb 6, 2025",51c60ef6-faab-11ef-9602-071ee06520f3,11.4,Tesla,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,28ab6eab-8604-408d-8966-c3e0a8e5ea54q,"Jun 12, 2024",51c52da6-faab-11ef-9602-1b5151ad1ee3,125.71,Whole Foods Market,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,28ce7e7a-3b21-4931-baff-7c11aa14401bq,"Mar 9, 2024",51c60ef6-faab-11ef-9602-071ee06520f3,250,Tesla,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,28cf4196-e289-11ef-b208-7be390beb155z,"Feb 3, 2025",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,253.7,Intuit *,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,28e079c4-4096-11ef-b74c-77862b8951fez,"Jul 12, 2024",5e0c04a2-ea54-11ef-b08d-7b26fb8e554d,"3,521.2",Intuit 33801769,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,28e310da-fa13-11ef-aebb-d3a9013f306dq,"Mar 5, 2025",51c5b230-faab-11ef-9602-a73b7ca86f47,190,Gusto,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,28e5bcc1-d8e1-465c-8f6a-696d38318e6cq,"May 26, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,200,Twilio,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,28ead628-985a-11ef-a76b-81e1850a407az,"Nov 2, 2024",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,52.92,Jotform,mapping categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,29057795-ba3c-4477-abe0-ce418445e9d3q,"May 14, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,300.93,Openai,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,294310c8-d2cf-4ca4-b11d-df5f7080ec38z,"Jun 1, 2024",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,41.1,Printful,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,294c7af6-084c-11f0-b38c-65808016cad3t,"Mar 24, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,2951c00e-02cc-11f0-b1fd-3f34a8a73d8at,"Mar 17, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,2970df64-b693-11ef-8fc8-2d8530f4c004q,"Dec 10, 2024",51c60ef6-faab-11ef-9602-071ee06520f3,22.09,Tesla,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,29773340-386b-4c04-9a57-a84ea591e09fq,"Aug 27, 2024",51c60ef6-faab-11ef-9602-071ee06520f3,11.93,Tesla,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,29851652-0682-11f0-b289-a13ce0c4705et,"Mar 22, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,2991e96e-fc5e-11ef-87c0-ef2da0b29c70t,"Mar 9, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,2994f642-7ce6-11ef-a24e-b130e0d3fd44q,"Sep 28, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,501.74,Openai,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,29a0a685-3115-4a8a-9ee7-9498ac0e8e30q,"Aug 13, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,301.48,Openai,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,29b14594-7aa3-11ef-aff8-59ec58e8c9feq,"Sep 25, 2024",51c61432-faab-11ef-9602-9367dc148211,36.56,Wawa,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,29d425ce-140b-11ed-8f83-37e971cb0151z,"Aug 4, 2022",5e09064e-ea54-11ef-b08d-3b023ce35269,255.43,Kevin Long,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,29d9d8de-08d2-11f0-a283-cb22a644045at,"Mar 25, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,29ea31eb-4a76-4a54-8c93-e09b1c33ed82q,"Mar 6, 2024",51c5f81c-faab-11ef-9602-034dd94120e6,31.96,Uber,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,29eafaf6-9578-11ef-ba6b-79d71474a5eaq,"Oct 29, 2024",51c60ef6-faab-11ef-9602-071ee06520f3,22.75,Tesla,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,29ef431c-f8ac-11ef-97e2-5f856aebf4c1q,"Mar 4, 2025",51c5b230-faab-11ef-9602-a73b7ca86f47,20,Openai,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,2a1373fc-56cf-11ee-b7f3-57eb2f68cc2bz,"Sep 19, 2023",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,239.88,Zapier,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,2a1a4fd5-78ec-4a75-a568-44c115fe8f9fz,"Jul 2, 2024",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,14.03,Fc Flaticon Premium M,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,2a2658f3-dcc4-45cb-87c2-cc1ee7101486q,"Jul 15, 2024",51c60ef6-faab-11ef-9602-071ee06520f3,7.03,Tesla,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,2a2e92c4-0842-11f0-9356-a117801269fet,"Mar 24, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,2a30532f-2d65-40a3-8b3d-0b362b76a773z,"Mar 19, 2024",5e08a0d2-ea54-11ef-b08d-d7409f4338cb,109.45,Micron Group,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,2a3cabd4-6082-11ee-bba6-9baeef5af35dz,"Oct 2, 2023",1585402a-fe65-11ef-8e74-8ff8842771a5,236.21,Zapier,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,2a425172-8f40-11ef-a2f4-7b919f6b73edz,"Oct 21, 2024",5e082206-ea54-11ef-b08d-57ad080a7534,900,Facebook,mapping categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,2a4bc0fc-5c53-11ee-a033-87b64fdaf5e7z,"Sep 27, 2023",e8f73cec-fe60-11ef-8cb8-ab6c4cbfe295,543.91,Snappr,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,2a4d88ce-ee38-11ef-8d24-dba3d6bf60aet,"Feb 19, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,2a65451d-64d7-4694-8c1d-86a617eba7c5q,"May 17, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,103,Inboundcallpros,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,2a65b80b-9c48-4034-a10d-dc3b25955d89q,"Sep 5, 2024",51c602a8-faab-11ef-9602-eb2ac525ff1f,49.95,Planet Networks,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,2a6f73b4-0547-11f0-aeb1-35c534073e52t,"Mar 20, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,2a854350-ebf8-11ef-8675-3bee82773277t,"Feb 16, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,2a8d5ef4-f54a-11ef-9c69-db37369be506t,"Feb 28, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,2a957ebc-ad48-11ef-94a4-b3df5123963fq,"Nov 28, 2024",51c60ef6-faab-11ef-9602-071ee06520f3,8.61,Tesla,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,2aa315d4-19ad-11ee-bd37-6bd235b6d120z,"Jul 3, 2023",3435b838-fe5b-11ef-9135-9703c6a0407d,500,Miranda Barrigas,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,2ab6409e-fa27-11ef-9452-97824ab0bc88t,"Mar 6, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,2abbcdf4-7df7-11ef-8edc-77e46058618dz,"Sep 30, 2024",1585402a-fe65-11ef-8e74-8ff8842771a5,39,Magnific Ai,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,2ae40c3a-7298-11ee-9099-63a6d89477cdz,"Oct 25, 2023",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,75.76,Linkedin,mapping categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,2af28236-6470-11ef-a203-3f8f65ab7410z,"Aug 27, 2024",32cb8e30-aa7b-11ee-ba20-5b00560b43f2,336.29,Stripe,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,2aff3cac-ab7d-11ef-916b-bf5b4ab94a5eq,"Nov 25, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,38.53,Next Insur (Ap I,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,2b0cb2ee-bf26-11ef-aea3-1d8cba73e1d3q,"Dec 21, 2024",51c60ef6-faab-11ef-9602-071ee06520f3,9.27,Tesla,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,2b0f457e-0501-11f0-a309-23ddf8a15457t,"Mar 20, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,2b0f819a-84ed-11ef-a739-89e7343c58f0q,"Oct 8, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,35,Gmass,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,2b1da6a2-cf17-11ef-a1d7-2dcf6c5404e8q,"Jan 10, 2025",51c60ef6-faab-11ef-9602-071ee06520f3,10.49,Tesla,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,2b24d93e-f895-11ef-bd48-5982cd8c47e4t,"Mar 4, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,2b2de462-7b62-11ef-8945-4b1143b84f87q,"Sep 27, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,40.8,Twilio,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,2b376744-486d-45d2-b654-e2f8aee65f70q,"Mar 16, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,10,Openai,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,2b45da9e-6403-43db-ac18-72d8ca1ce028z,"Jun 1, 2024",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,34.48,Atlassian,mapping categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,2b460f67-63d1-48a0-b15f-523ac66563a7z,"Aug 24, 2024",5e08a0d2-ea54-11ef-b08d-d7409f4338cb,26.39,Uline,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,2b48f364-faca-11ef-9a07-b3074953cd74t,"Mar 7, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,2b5457ce-f616-11ec-98b9-b382b0c725f7z,"Jun 27, 2022",5e09064e-ea54-11ef-b08d-3b023ce35269,"1,172.61",Alex Duncan,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,2b59291a-5686-4ae5-b260-be2d26969e65z,"Aug 28, 2024",5e08a0d2-ea54-11ef-b08d-d7409f4338cb,96.46,Micron Group,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,2b7465c6-c622-11ef-9dff-776ad52d06ecq,"Dec 31, 2024",51c60ef6-faab-11ef-9602-071ee06520f3,52,Trax Car Wash,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,2b800bab-93d8-451d-ac6c-014cbddfc2adq,"Aug 29, 2024",51c60ef6-faab-11ef-9602-071ee06520f3,12.28,Tesla,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,2b846fac-bc84-45b0-ba4c-e698e2e4ae0aq,"May 12, 2024",51c52da6-faab-11ef-9602-1b5151ad1ee3,3,Uber Eats,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,2b892946-c711-4115-835f-f3d6fea4dd43z,"Aug 13, 2024",1585402a-fe65-11ef-8e74-8ff8842771a5,7.56,Wokwi,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,2b8f86c0-038b-11f0-9e53-795ea5edd358t,"Mar 18, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,2b99ebd4-0114-11f0-93d6-c92c18171c36t,"Mar 15, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,2badc418-7b2a-11ee-a268-f3490b8ac1f4z,"Nov 5, 2023",5e09064e-ea54-11ef-b08d-3b023ce35269,14.02,Amazon,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,2bcdb2d8-9df6-11ef-af42-fd716c0fbd89z,"Nov 9, 2024",5e09064e-ea54-11ef-b08d-3b023ce35269,9.88,Amazon,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,2bdd66c1-4038-45e6-93dc-b6560cd064d6q,"Mar 23, 2024",51c60ef6-faab-11ef-9602-071ee06520f3,11.1,Tesla,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,2be21916-4370-11ef-920a-dfc147848507q,"Jul 16, 2024",51c5dabc-faab-11ef-9602-2f4e58e195a1,"19,419.4",Stripe,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,2bf20360-8166-11ef-9d1e-e3e1875cf9edq,"Oct 3, 2024",51c5f682-faab-11ef-9602-f766fd8a6597,1,Hilton Global Fnd/Tmaf,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,2bf3099a-f4a7-11ef-bcfd-af2a957bed72t,"Feb 27, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,2c05ddfe-fd26-11ef-9751-c3a52b432b4at,"Mar 10, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,82.76,Bubble,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,2c1b759a-cb54-4e27-b6fa-fc21e80d1688z,"Jul 1, 2024",5e082206-ea54-11ef-b08d-57ad080a7534,498.37,Pinterest,mapping categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,2c1e29db-a3c8-4c24-8e79-f125cfe84241z,"Jul 25, 2024",1585402a-fe65-11ef-8e74-8ff8842771a5,17.28,Commoninja,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,2c35e797-21da-406a-ada4-2ae08f121341q,"Mar 29, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,100.76,Openai,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,2c4d4996-8166-11ef-b15b-bd6d154f8789q,"Oct 3, 2024",51c5f682-faab-11ef-9602-f766fd8a6597,1,Hilton Global Fnd/Tmaf,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,2c565c5a-f5fd-11ef-80de-57818063b01dz,"Mar 3, 2025",0c144b0c-f092-11ef-ad89-cff85491c575,"12,356.56","Ibe laser Co., limited",manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,2c599c76-fd50-11ef-9026-774d374e2799t,"Mar 10, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,2c5b86f2-e8e3-11ef-983f-b16f1fd6be64t,"Feb 12, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,18,Webflow,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,2c5c5059-7a3c-49db-87c5-a53b5ad305feq,"Aug 14, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,300.4,Openai,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,2c7148f0-8fa5-4fd3-8fd7-34cc7e8fd672z,"May 16, 2024",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,21.28,Figma,mapping categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,2c91ed08-be20-11ee-b27b-7f7b82e6e529z,"Jan 29, 2024",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,14.99,Canva,mapping categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,2c96d1b4-958a-11ef-a4c9-d1c6da981cacz,"Oct 29, 2024",1585402a-fe65-11ef-8e74-8ff8842771a5,39,Magnific Ai,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,2c975f02-f85a-11ef-8778-a7aa8b2542f0t,"Mar 4, 2025",b386550a-1628-11ef-ae6b-0f7bc6a08613,50.4,Upwork,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,2c9c436e-fb93-11ef-993d-d928059765f7t,"Mar 8, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,300,Ashby,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,2cbdc3ae-2bbb-45ee-b3ef-b0163892813fq,"Jun 30, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,50,Twilio,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,2cbfc036-7b2a-11ee-a268-db63608fa349z,"Nov 6, 2023",5e09064e-ea54-11ef-b08d-3b023ce35269,101.85,Amazon,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,2cd48d30-212b-11ee-b246-039e15fe8ebcz,"Jul 13, 2023",1585402a-fe65-11ef-8e74-8ff8842771a5,39,Remove.Bg,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,2cd9be0a-4925-11ee-9506-0ff4d0cc32f4z,"Sep 2, 2023",1585402a-fe65-11ef-8e74-8ff8842771a5,131.66,Intuit *,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,2cdaa2de-d34e-11ef-87b2-975f46303cb2z,"Jan 15, 2025",32cb8e30-aa7b-11ee-ba20-5b00560b43f2,323.57,Stripe,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,2ce2d5ba-f7cc-11ef-ad0b-5f417674dfb1t,"Mar 3, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,2cfe9224-5b05-11ee-befe-2761c31e9476z,"Sep 25, 2023",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,75.76,Linkedin,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,2d0550c9-7122-46e3-89c4-62dfa80e6e92z,"Jul 1, 2024",1585402a-fe65-11ef-8e74-8ff8842771a5,12,Codepen,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,2d134bee-f6de-11ef-8e22-233d0c545338t,"Mar 2, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,2d17f946-b201-11ee-bbdb-4333be118707z,"Jan 14, 2024",1585402a-fe65-11ef-8e74-8ff8842771a5,29.5,Adcreative.Ai,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,2d40735c-ccfb-11ee-bb7a-bf3e0eeaf49fq,"Feb 17, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,540,Monday.Com,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,2d49a6c0-8d13-11ee-ae6e-d7dfb5ced346z,"Nov 28, 2023",0c144b0c-f092-11ef-ad89-cff85491c575,13.31,Mouser Electronics,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,2d4b99bb-09a2-4314-8cc9-860f53167c1fz,"May 8, 2024",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,19.15,Figma,mapping categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,2d702ec4-f178-11ef-b866-bfbff54b4dc6t,"Feb 23, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,2d7f7a30-a311-11ed-ab0b-f3f8f874a10fz,"Feb 2, 2023",0c144b0c-f092-11ef-ad89-cff85491c575,40,Gembah Inc,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,2d990af8-c836-11ef-8387-971bce36546bq,"Jan 2, 2025",51c5b230-faab-11ef-9602-a73b7ca86f47,133.2,Google Workspace,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,2dac4bc0-5970-11ef-949a-0b4982ea0800z,"Aug 13, 2024",32cb8e30-aa7b-11ee-ba20-5b00560b43f2,96.1,Shopify,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,2dafa462-c4a2-11ef-998b-b3cf41050f14q,"Dec 27, 2024",51c61432-faab-11ef-9602-9367dc148211,10.65,Tesla Motors,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,2db1efa2-f566-11ef-a4bd-4b20a353a16et,"Feb 28, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,2dbbc8be-736c-11ef-afe0-d3f6c0dc1a47z,"Sep 16, 2024",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,21.28,Figma,mapping categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,2de035a8-edd2-11ed-bd4f-ebeaae1f2606z,"May 8, 2023",0c144b0c-f092-11ef-ad89-cff85491c575,"22,600",Gembah,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,2e0df1cc-dc07-11ee-8884-939e153b81f7q,"Mar 8, 2024",51c529b4-faab-11ef-9602-9f3703026526,25.37,Shake Shack,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,2e18fe56-a268-11ee-8119-8f35dc121e73z,"Dec 25, 2023",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,48,Relume.Io,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,2e22503a-2a38-11ee-bb80-23a6647cefb7z,"Jul 24, 2023",ec8776f8-fe59-11ef-a321-0bbd518110a1,"25,000",1/Michael Laquere,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,2e360cc8-ab9d-11ef-bec7-9ba63e59db10z,"Nov 26, 2024",5e082206-ea54-11ef-b08d-57ad080a7534,900,Facebook,mapping categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,2e392908-8cc3-4195-906c-1a21e9d19437z,"Aug 29, 2024",5e09064e-ea54-11ef-b08d-3b023ce35269,19.99,Amazon,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,2e4c1d00-bc26-11ed-a7c4-b74bcb84c319z,"Mar 6, 2023",5e09064e-ea54-11ef-b08d-3b023ce35269,"2,470.73",Alex Duncan,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,2e5bbcce-fa1d-11ef-aa88-d9a3000a9093t,"Mar 6, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,2e610776-5bc5-11ee-b2d9-67ea0a656978z,"Sep 26, 2023",e8f73cec-fe60-11ef-8cb8-ab6c4cbfe295,346.97,Bestofsigns,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,2e6dfdaa-7a7d-11ef-bf53-8f8abff65993z,"Sep 25, 2024",1585402a-fe65-11ef-8e74-8ff8842771a5,47.97,Klaviyo,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,2e94ab16-b0e5-45af-803d-4e3b73bb3455z,"Apr 13, 2024",0c144b0c-f092-11ef-ad89-cff85491c575,42.05,Digi-Key Electronics,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,2e9b7e5c-2159-11ee-b269-53c4f54abf25z,"Jul 15, 2023",32cba1c2-aa7b-11ee-ba20-dfb359ff0c11,3.85,Urbane Lounge (Pullman,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,2eb2330e-e025-11ef-8742-cf5151e84031q,"Jan 31, 2025",51c5ee12-faab-11ef-9602-0f5588d668f5,"7,913.99",Gusto,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,2eb942aa-a2d8-11ef-9177-0bd0856731e0z,"Nov 14, 2024",3435b838-fe5b-11ef-9135-9703c6a0407d,750,Payroll,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,2ebab238-f6cb-11ef-9e0a-d39756435e22t,"Mar 2, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,2ed7eb1c-ea70-11ef-8692-09bd39e1ed99t,"Feb 14, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,2f271bd0-d67e-11ee-8901-fb546be71c57z,"Feb 29, 2024",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,14.99,Canva,mapping categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,2f2b2ac4-6110-11ee-a756-8ff13e3316faz,"Oct 3, 2023",158465a6-fe65-11ef-8e74-4f092d5593c6,"3,088.43",Reventals.Com,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,2f3d813e-7fe5-11ef-8839-39322df3d944q,"Oct 2, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,126.12,Google Workspace,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,2f3e2606-f6dd-11ef-a212-cf35fb51d5a2t,"Mar 2, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,2f6afe6e-f914-11ee-b990-53e272ef45c2z,"Apr 12, 2024",3435b838-fe5b-11ef-9135-9703c6a0407d,"2,000",Payroll,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,2f8030ed-dbfa-465c-a146-dadd08755c2cz,"Aug 2, 2024",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,253.28,Google Workspace,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,2f81ea4a-ea2a-11ef-b3ec-119f48a9a8daq,"Feb 14, 2025",51c60ef6-faab-11ef-9602-071ee06520f3,16.75,Tesla,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,2f989b80-9e1e-11ef-8eb6-27fda9497286z,"Nov 12, 2024",564cdbec-fe5e-11ef-8cdf-eff62277fbc0,"2,350",Ibe Electronics Co. Ltd,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,2fa0c9e2-f2ef-11ef-83d9-3f462605a112t,"Feb 25, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,2fa1661e-d247-11ee-8ebd-cfad3ec6ca40z,"Feb 24, 2024",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,123.18,Printful,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,2fa3a1b8-bf22-11ef-8695-83ad36a29dc5z,"Dec 20, 2024",3435b838-fe5b-11ef-9135-9703c6a0407d,"1,335",Cover Desk Llc,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,2fd35766-5a85-11ef-8a5f-a7d3faeb356dz,"Aug 14, 2024",5e0c04a2-ea54-11ef-b08d-7b26fb8e554d,"3,083.82",Intuit 36303705,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,2fd64124-dfed-4275-9e42-40ee467f2180z,"Mar 10, 2024",5e09064e-ea54-11ef-b08d-3b023ce35269,32.31,Amazon,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,2fda064c-cea7-11ef-8815-df2623d5d669q,"Jan 10, 2025",51c5b230-faab-11ef-9602-a73b7ca86f47,55,Gmass,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,2fe4cda6-ccd3-11ee-8eea-bb51ad7f47c1z,"Feb 16, 2024",3435b838-fe5b-11ef-9135-9703c6a0407d,"2,000",Payroll,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,2ff0e8ee-9e1e-11ef-8748-631581f6f771z,"Nov 12, 2024",5e087e2c-ea54-11ef-b08d-2f2b4b0f2a4c,15,Fees,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,2ffd7380-0826-11f0-9821-455a452dd059t,"Mar 24, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,2fff081a-f6f8-11ef-9708-c119e629929bt,"Mar 2, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,30221fa0-f093-11ef-977e-43d69863b99bt,"Feb 22, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,302f767e-f182-11ef-9006-712d17c4af77t,"Feb 23, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,3030cc52-f616-11ef-945d-97ac6c1190fat,"Mar 1, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,30360dc2-2383-11ef-9bce-7759a5ff2f6bq,"Jun 5, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,526,Gusto,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,30522db4-f3de-11ef-9d14-6d6ab7b4644dt,"Feb 26, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,306a200a-e628-45cb-9204-e15875494f91z,"May 8, 2024",32cb2e9a-aa7b-11ee-ba20-47ce482162e6,415,Py Amazing Spaces Vi,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,306ab836-9659-44cf-b471-b5ef3d606202z,"Jul 14, 2024",e8f73cec-fe60-11ef-8cb8-ab6c4cbfe295,450,Pollfish,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,306c4bb3-f0ee-44c5-a49f-040b3ed111e7q,"Aug 27, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,500.43,Openai,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,306c6f14-f87d-11ef-acc3-17108bf09096z,"Mar 4, 2025",5e09064e-ea54-11ef-b08d-3b023ce35269,"1,058.71",Alex Duncan,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,3075dd00-e075-4e0a-a8f8-df02c917e87cz,"Jul 20, 2024",1585402a-fe65-11ef-8e74-8ff8842771a5,10.79,Setapp,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,30a01be5-020c-4e1d-a067-ebed20b3c881q,"Aug 29, 2024",51c610b8-faab-11ef-9602-efe95e6091e2,31,Pine Water Garage,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,30a0b222-8732-11ef-9ab3-21aefe396ab1z,"Oct 11, 2024",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,21.28,Openai,mapping categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,30b6f67a-1804-11ee-b8f7-6bc525c58fccz,"Jul 2, 2023",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,69.56,Google Llc Gsuite_Outm,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,30c16bf4-0f86-11ee-bb2a-cba92dddb21bz,"Jun 20, 2023",ec8776f8-fe59-11ef-a321-0bbd518110a1,"50,000",Watershed Growth Ventures Ii Llc,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,30ca31b0-924f-11ef-bdb5-0bdb482570cfz,"Oct 24, 2024",5e0c04a2-ea54-11ef-b08d-7b26fb8e554d,"3,083.83",Intuit 42532090,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,30cb579e-be27-11ef-810f-735469a0e3a4q,"Dec 20, 2024",51c60ef6-faab-11ef-9602-071ee06520f3,17.44,Tesla,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,30d8cc4e-8948-11ef-94c2-895c407053d7z,"Oct 14, 2024",1585402a-fe65-11ef-8e74-8ff8842771a5,59,Adcreaai Ad Crea Ente,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,30e2c084-ce10-11ef-930e-3f1c5a090983z,"Jan 8, 2025",3435b838-fe5b-11ef-9135-9703c6a0407d,"1,277",Cover Desk Llc,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,30ec70db-e0cd-429e-88bd-3537a7573f33q,"Jul 15, 2024",51c602a8-faab-11ef-9602-eb2ac525ff1f,59.95,Planet Networks,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,30f0bed0-a30d-11ed-86ee-0fb3e1f1dc25z,"Feb 2, 2023",1585402a-fe65-11ef-8e74-8ff8842771a5,45.31,Intuit *,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,30f92e52-15b9-11ee-b304-5bfa99809acbz,"Jun 28, 2023",5e09064e-ea54-11ef-b08d-3b023ce35269,187.97,Alex Duncan,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,3137246e-89cd-11ed-ab4f-9bf155a9a39ez,"Jan 1, 2023",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,38.38,Google Pay,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,3145744e-2d99-4191-834a-8b988297c67az,"Aug 9, 2024",5e09064e-ea54-11ef-b08d-3b023ce35269,39.85,Amazon,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,316ffba2-a38c-45bd-abd3-111747627344q,"Sep 7, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,31,Sociocs/Whatsbox,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,3174887e-04e4-11f0-bb0f-21524753e8cct,"Mar 20, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,317d7e40-f6a5-11ef-a344-e10834db394aq,"Mar 2, 2025",51c5b230-faab-11ef-9602-a73b7ca86f47,129.6,Google Workspace,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,31869460-b313-11ef-a726-5bdc84c6edafz,"Dec 5, 2024",ec8776f8-fe59-11ef-a321-0bbd518110a1,"10,000",Charles A Leeds Susan Jane Bridges,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,31a4c434-eff0-11ef-b90e-7b638071054et,"Feb 21, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,31c289c0-ae60-443a-96b4-13b82b160dddz,"Aug 29, 2024",5e09064e-ea54-11ef-b08d-3b023ce35269,8.98,Amazon,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,31c548ef-a33a-4156-9cef-20b423ca9f23z,"May 24, 2024",5e082206-ea54-11ef-b08d-57ad080a7534,900,Facebook,mapping categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,31c942dc-2f4d-11ef-8c94-ff22b33c10f3z,"Jun 20, 2024",5e0a9b12-ea54-11ef-b08d-4b5ae661f97d,"4,731.66",Irs,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,321c2d12-f8bf-11ef-86b7-4706c1ac89act,"Mar 4, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,18,Webflow,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,32371a92-c579-11ef-bbc4-9905ad19636cz,"Dec 29, 2024",1585402a-fe65-11ef-8e74-8ff8842771a5,39,Magnific Ai,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,32390874-5e42-11ee-9cd7-57c9513c00b2z,"Sep 29, 2023",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,14.99,Canva,mapping categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,3245be70-a3a1-11ef-895f-978528cdf863z,"Nov 15, 2024",5e0a9b12-ea54-11ef-b08d-4b5ae661f97d,"4,731.62",Irs,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,324f751c-b0fe-4711-84b0-e99865d5e1d1q,"Mar 29, 2024",51c52da6-faab-11ef-9602-1b5151ad1ee3,200,Soosanghan Pocha,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,32597e1e-6799-11ee-bcd9-ab96a76222cez,"Oct 11, 2023",1585402a-fe65-11ef-8e74-8ff8842771a5,21.28,Chatgpt Subscription,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,326570d1-1e86-4136-93e0-94742ea9cc09q,"Jun 11, 2024",51c615d6-faab-11ef-9602-dfb9979c07b4,103.4,Progressive Corporation,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,326c3aef-7ce6-41fc-89f4-1558e5e38e31z,"Jun 2, 2024",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,52.92,Jotform,mapping categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,326c6394-01cb-11f0-81a1-c955f4127967t,"Mar 16, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,32749b1e-b747-11ef-a0d6-77f20973ba40z,"Dec 10, 2024",3435b838-fe5b-11ef-9135-9703c6a0407d,"1,000",Payroll,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,32762090-f227-11ef-a886-0b05374874c7t,"Feb 24, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,327710b5-f506-4061-9b1a-7047da22c79fz,"May 23, 2024",5e082206-ea54-11ef-b08d-57ad080a7534,500,Google,mapping categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,32a94a12-d87a-4338-9ab3-ff2e225f58bdq,"Apr 12, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,20,Claude.Ai,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,32ae3ad4-123a-11ef-9c5b-0f98a185f28ez,"May 14, 2024",5e0c04a2-ea54-11ef-b08d-7b26fb8e554d,"3,521.21",Intuit 28762196,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,32d55cd6-acfe-11ef-bf7f-357fbb8c575ez,"Nov 28, 2024",5e082206-ea54-11ef-b08d-57ad080a7534,900,Facebook,mapping categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,32ee5f1a-0a82-11f0-bbc1-f5974de5f57dt,"Mar 27, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,32fcaafe-0783-11f0-beb5-63abcc507944t,"Mar 23, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,330ef1ac-4e5f-11ee-98da-1f338b061538z,"Sep 8, 2023",5e09064e-ea54-11ef-b08d-3b023ce35269,"4,708.88",Kevin Long,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,331404c6-7803-11ee-a693-63f5f0cc0534z,"Nov 2, 2023",5e09064e-ea54-11ef-b08d-3b023ce35269,45.31,The Home Depot,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,33205d96-ecc1-11ef-bbbd-dd97b65902e3t,"Feb 17, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,33419ece-f95b-11ef-a6aa-fbe89a6af9c4z,"Mar 5, 2025",5e087e2c-ea54-11ef-b08d-2f2b4b0f2a4c,10.83,Stripe,mapping categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,3350c570-7dcd-11ef-9635-a369db369c61q,"Sep 29, 2024",51c529b4-faab-11ef-9602-9f3703026526,25.31,Le Pain Quotidien,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,33518778-37a9-11ee-a4d2-ab341bd9561cz,"Aug 11, 2023",1585402a-fe65-11ef-8e74-8ff8842771a5,21.28,Chatgpt Subscription,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,33530c1c-2f60-11ed-918f-27a682808ed8z,"Sep 9, 2022",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,30.91,Shopify,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,335bb07c-87e9-11ef-be73-c1049acd904ez,"Oct 13, 2024",5e09064e-ea54-11ef-b08d-3b023ce35269,96.28,Amazon,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,3375aa65-2557-4107-8190-36b55a124c6ez,"Mar 16, 2024",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,21.28,Figma,mapping categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,3376204b-1bac-42d9-8d7a-227cc0dd6d40q,"Jul 9, 2024",51c60ef6-faab-11ef-9602-071ee06520f3,12.32,Tesla,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,338aea68-35f1-4660-bb6d-8a5cfaf2a2bez,"Mar 14, 2024",0c144b0c-f092-11ef-ad89-cff85491c575,189.36,Mcmaster-Carr,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,33da51fc-a8f9-4af7-86d2-404424eb6a28q,"Jul 22, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,40.06,Twilio,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,33f6c2e2-aad1-41eb-bd76-e3644f8033dcq,"Jun 25, 2024",51c529b4-faab-11ef-9602-9f3703026526,13.55,Gregorys Coffee,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,33f6d8aa-06be-11f0-a27a-3d7befb22eaft,"Mar 22, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,33fa6b7b-9477-40f0-a3e4-6a5808489e00q,"Mar 20, 2024",51c4b920-faab-11ef-9602-afe0bfabd005,72.76,Linkedin,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,33faf9a6-a9c7-4665-8437-9eeba8b553e7q,"Jul 2, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,21.6,Google Workspace,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,3422928c-6a3e-11ef-94d5-2717c6eba641z,"Sep 3, 2024",1585402a-fe65-11ef-8e74-8ff8842771a5,100,Intuit,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,342b3ff4-0f39-11f0-bf37-056b5e300a34t,,934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,342d0cd6-6c77-48da-a2b5-6d968fc6c976q,"Mar 19, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,27,Us Business Data,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,34354982-004c-11f0-9a00-bd64911c8b08t,"Mar 14, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,34373821-66de-462e-a4c4-4f9066122198z,"May 22, 2024",5e082206-ea54-11ef-b08d-57ad080a7534,500,Google,mapping categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,343c3928-02d0-11f0-8c6b-f3e498b3945at,"Mar 17, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,3454d346-0066-11f0-ad7b-9b8be0448e3ft,"Mar 14, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,34933f42-0e70-11f0-a438-231ad53c1502t,,934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,349d1bae-76e9-11ee-a098-ef8f3a828e5az,"Oct 30, 2023",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,31.39,Shutterstock,mapping categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,34ac7618-6186-4359-adbe-6674c04e83a8z,"Jul 24, 2024",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,30.91,Webflow,mapping categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,34d11a77-4a8d-4206-b1d8-eedd0d628d05q,"Jun 22, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,90,Sakari Sms,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,34d6f11f-3622-41d6-8d47-f9cc29e6fe69z,"Mar 25, 2024",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,48,Relume.Io,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,34d99f9a-c7c7-11ef-8ec2-478f9ff65120q,"Dec 31, 2024",51c5bd02-faab-11ef-9602-0b194a6373b1,"14,471.7",Gusto,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,34d9cd42-7139-11ef-b248-cb0627fcde2aq,"Sep 14, 2024",51c529b4-faab-11ef-9602-9f3703026526,95.48,Osteria Del Porto,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,34e89820-36af-4060-ad65-d06db1130163q,"Jul 20, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,300.66,Openai,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,34e8d9fc-1928-493b-9602-d06be4ce3ef9q,"Jul 29, 2024",51c60ef6-faab-11ef-9602-071ee06520f3,21.12,Tesla,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,34f87288-f0b9-11ef-bc52-0db17d2768cat,"Feb 22, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,350580a8-21e0-11ee-a401-47c1ee4c8d3dz,"Jul 17, 2023",5e09064e-ea54-11ef-b08d-3b023ce35269,0.94,Coca-Cola,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,35207b00-eb39-11ef-95ed-4115f78ef183t,"Feb 15, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,35220fc2-95fb-11ee-81ee-e788993e9f68z,"Dec 9, 2023",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,21.32,Notion,mapping categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,3523dc00-6507-11ee-a810-434618f5693az,"Oct 7, 2023",5e082206-ea54-11ef-b08d-57ad080a7534,500,Google,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,352d94a6-f15c-11ef-a8c1-9bf80adc5509t,"Feb 23, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,35344e7a-b4dc-11ef-a5d5-57f87f2bca10q,"Dec 8, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,35,Gmass,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,3554f864-ef88-11ef-8de8-73803360e4baq,"Feb 21, 2025",51c5b230-faab-11ef-9602-a73b7ca86f47,36,Squarespace,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,3569c4f8-fef6-11ed-bd25-efbdb7946b5bz,"May 30, 2023",5e09064e-ea54-11ef-b08d-3b023ce35269,"1,267.22",Kevin Long,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,357d83f6-004a-11f0-825e-33f3b1b7854bt,"Mar 14, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,358fad54-88ce-11ef-8e6f-b96eb39ae80ez,"Oct 13, 2024",5e09064e-ea54-11ef-b08d-3b023ce35269,22.38,Amazon,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,359e304c-4426-11ee-990f-175b36496fddz,"Aug 28, 2023",5e09064e-ea54-11ef-b08d-3b023ce35269,19.23,The Home Depot,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,35a175ab-e55a-4f14-85d2-cb55f12ee4bcq,"Jun 28, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,300.72,Openai,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,35a778b2-e84b-11ef-b3d5-07589cbcede6q,"Feb 11, 2025",51c615d6-faab-11ef-9602-dfb9979c07b4,196.8,Progressive,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,35a82858-2d50-4f94-ba37-76cdd782e7eeq,"Mar 14, 2024",51c4b920-faab-11ef-9602-afe0bfabd005,95.26,Linkedin,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,35b3306f-00bb-4b8a-9115-6bb9ab8eb6f8z,"Jul 12, 2024",5e082206-ea54-11ef-b08d-57ad080a7534,900,Facebook,mapping categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,35bbedf0-776d-11ef-99ac-abc41aa1960eq,"Sep 21, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,20,Justcall,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,35caa1f0-6ec3-11ee-9f79-630ad7a2a6adz,"Oct 20, 2023",1585402a-fe65-11ef-8e74-8ff8842771a5,21.64,Metapay,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,35d46186-036e-11f0-b7f4-5fcc4fa373b2z,"Mar 18, 2025",62cd09a4-fe5f-11ef-b2ed-a728f4845b80,343.05,Deliveright,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,35e6ae3e-08cb-11ef-a928-f75376effce5z,"May 2, 2024",1585402a-fe65-11ef-8e74-8ff8842771a5,210,Intuit *,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,35eb6213-1ed2-4d85-b80b-8c27cb23e55fq,"May 10, 2024",51c5f81c-faab-11ef-9602-034dd94120e6,63.89,Uber,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,35f88a5c-7039-423d-b0f1-64ea1c601cd1q,"Mar 3, 2024",51c5685c-faab-11ef-9602-0754c6774a51,109.91,Amazon,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,360b8022-06ba-11f0-9a65-c94444f628ebt,"Mar 22, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,360d834e-045e-11f0-b62e-fbe8319c27e2t,"Mar 19, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,36187866-3d10-11ed-879d-cbe33cde9008z,"Sep 26, 2022",5e09064e-ea54-11ef-b08d-3b023ce35269,276.13,Alex Duncan,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,361cf23a-f5f0-11ed-aec2-171a918fd8aaz,"May 19, 2023",5e0a4c84-ea54-11ef-b08d-b78074d1165e,750,Rice University,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,36244316-a858-11ef-bac9-b7c9e7d99f96z,"Nov 21, 2024",3435b838-fe5b-11ef-9135-9703c6a0407d,"1,181",Cover Desk Llc,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,3627ab2e-4d71-4c82-a8c2-60f1b43aa202q,"Aug 31, 2024",51c60ef6-faab-11ef-9602-071ee06520f3,8.51,Tesla,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,362961d0-f208-11ef-89d3-87b89246c904t,"Feb 24, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,36375280-cb40-11ee-8758-a7c63f52a1e3z,"Feb 14, 2024",5e0c04a2-ea54-11ef-b08d-7b26fb8e554d,"3,521.21",Payroll,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,36385912-4bd1-11ee-bec0-276c55ff5e3dz,"Sep 5, 2023",3435b838-fe5b-11ef-9135-9703c6a0407d,"1,000",Richard Murphy Studio,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,363b0b56-a8b2-11ee-8b14-c74f45f38e57z,"Jan 2, 2024",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,14.05,Fc Flaticon Premium M,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,363bc9e0-ccd0-11ef-9e89-5b0b3e96dee4z,"Jan 7, 2025",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,32.35,Linkedin,mapping categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,3669dae6-73fe-11ee-adcc-6b4f0d363563z,"Oct 26, 2023",0c144b0c-f092-11ef-ad89-cff85491c575,410.43,Corvus Engineeri,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,366d2440-2771-11ef-98a8-dfeb5da83fb7q,"Jun 10, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,22.61,Next Insur (Ap I,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,36716f32-1787-11ee-bc47-174fbdc15897z,"Jul 1, 2023",5e0abbf6-ea54-11ef-b08d-afba3371d194,259.24,Usps,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,3676043a-8a62-11ef-b734-c31bd597c104z,"Oct 15, 2024",0c144b0c-f092-11ef-ad89-cff85491c575,58.92,Digi-Key Electronics,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,367c643c-e0d5-11ef-9667-39d27d514325q,"Feb 2, 2025",51c5b230-faab-11ef-9602-a73b7ca86f47,97,Highlevel,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,367e158a-2111-4dd5-a79b-e889b754f0a6z,"Aug 16, 2024",5e09064e-ea54-11ef-b08d-3b023ce35269,29.49,Amazon,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,367fd5ac-ca85-11ee-9cf0-3f65cc0c1958z,"Feb 14, 2024",5e082206-ea54-11ef-b08d-57ad080a7534,500,Google,mapping categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,3689288e-ec88-11ef-b6b9-9f4728a0d0a8t,"Feb 17, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,36a1b750-0fbf-11f0-8643-8f0880f03541t,,934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,36b64ddc-8838-11ef-ab99-bbbf7c1d7330q,"Oct 12, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,29.78,Sentry,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,36cae8ca-7d05-11ef-bd31-35221f7bba91z,"Sep 28, 2024",0c144b0c-f092-11ef-ad89-cff85491c575,254.61,Fictiv,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,36e40a43-4e1b-4c7a-976e-1e06842a28c8q,"May 23, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,500,Sakari Sms,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,36fdc69a-6030-45ba-bbc3-ec42da3d3fb1z,"Mar 10, 2024",5e09064e-ea54-11ef-b08d-3b023ce35269,30.3,Amazon,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,3704a8d3-dbdb-4a52-afac-1ad71b509516q,"Jul 1, 2024",51c60ef6-faab-11ef-9602-071ee06520f3,16,Tesla,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,37145a08-88ce-11ef-8dbd-87ef5f8bd5b3z,"Oct 13, 2024",5e09064e-ea54-11ef-b08d-3b023ce35269,9.99,Amazon,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,3733de44-5cc1-11ee-8d52-1f0d40c37eb8z,"Sep 27, 2023",5e082206-ea54-11ef-b08d-57ad080a7534,14.74,Reddit,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,3734fd7a-faad-11ef-b8b9-9176b242945dt,"Mar 7, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,37435449-259d-4506-a382-d1ed431da2b9z,"Mar 21, 2024",5e09064e-ea54-11ef-b08d-3b023ce35269,52.37,Amazon,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,3745df04-5117-11ef-b238-0f83551014aeq,"Aug 2, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,128,Gusto,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,37519560-1859-4002-9976-b61c32b9327cq,"Jun 3, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,605.78,Amazon Web Services,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,37528c28-283a-11ef-b51c-b3179e99bfd8q,"Jun 11, 2024",51c5bee2-faab-11ef-9602-f328b191844c,"6,000",Gusto,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,3770b046-8ff4-11ef-aef6-2739f13c412aq,"Oct 21, 2024",51c4ebde-faab-11ef-9602-57fb74d25bf9,"5,843.13",United Healthcar,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,378f8e0c-fb93-11ef-96fc-b72531384d26t,"Mar 8, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,37a50ed4-6ef4-11ef-a9bc-a391ab06238ez,"Sep 9, 2024",5e0c04a2-ea54-11ef-b08d-7b26fb8e554d,"3,083.83",Intuit 25281685,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,37abac3a-9843-11ef-a76b-bf28a30f4e06z,"Nov 2, 2024",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,253.28,Google Workspace,mapping categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,37b528e0-af28-11ef-8828-7fd32ccc180fq,"Dec 1, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,30,Sakari Sms,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,37c1e432-baee-11ef-acbe-291822d94deaz,"Dec 16, 2024",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,21.28,Figma,mapping categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,37c340ea-2d4f-11ed-a522-471e32324491z,"Sep 6, 2022",5e09064e-ea54-11ef-b08d-3b023ce35269,27.62,Kevin Long,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,37e3933a-83b6-11ef-9c93-fb6207ebbfceq,"Oct 7, 2024",51c602a8-faab-11ef-9602-eb2ac525ff1f,49.95,Planet Networks,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,37e6e4ae-af35-11ef-9e86-5195be0ac94az,"Dec 1, 2024",1585402a-fe65-11ef-8e74-8ff8842771a5,12,Codepen.Io/Charge,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,38022ee4-0c1e-11f0-bfe8-e3b937c51a18z,"Mar 28, 2025",5e0c04a2-ea54-11ef-b08d-7b26fb8e554d,"3,682.84",Gusto,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,380a1dec-71b5-11ef-80b2-093383ae46fcz,"Sep 14, 2024",1585402a-fe65-11ef-8e74-8ff8842771a5,59,Adcreaai Ad Crea Ente,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,3813143f-71c7-4cba-b7b2-74fd77cb17ebz,"Mar 13, 2024",0c144b0c-f092-11ef-ad89-cff85491c575,52.6,Digi-Key Electronics,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,3827e966-c6bb-11ef-89b5-dd7352aa04aeq,"Dec 31, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,30,Sakari Sms,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,38407438-81ae-11ef-ab6a-839d2ea32ef2z,"Oct 4, 2024",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,56.5,Openphone,mapping categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,3859bb48-0a37-11f0-a1ef-db181bd6bc3fz,"Mar 27, 2025",5e09064e-ea54-11ef-b08d-3b023ce35269,26.99,Amazon,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,385cc5c6-6570-11ee-bbb7-cf1c7503e338z,"Oct 8, 2023",5e082206-ea54-11ef-b08d-57ad080a7534,1,Facebook,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,3861843a-ad9b-11ee-8fdf-c71398d528a3z,"Jan 8, 2024",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,15.96,Figma,mapping categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,38694a83-ecea-43dc-9085-757cd5a9de9cq,"Apr 27, 2024",51c52da6-faab-11ef-9602-1b5151ad1ee3,51.64,Uber Eats,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,3897f3da-ae85-11ef-9203-af1d0b0ea0a7q,"Nov 30, 2024",51c60ef6-faab-11ef-9602-071ee06520f3,11.47,Tesla,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,3898bdc3-ed06-4dd4-8f42-85f877a535b6z,"Mar 9, 2024",5e09064e-ea54-11ef-b08d-3b023ce35269,13.52,Amazon,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,389d3eb2-02cc-11f0-810d-53ec5929cfd8t,"Mar 17, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,38c74350-ac47-11ef-a75a-7be6cf02780cq,"Nov 26, 2024",51c60ef6-faab-11ef-9602-071ee06520f3,700,U.S. Bank N.A.,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,38c7708a-099b-11f0-9f0b-61cdedf6e487t,"Mar 26, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,38c9442a-7b5a-11ef-bc74-5fc020e2412dq,"Sep 26, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,500.93,Openai,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,38d52515-68f7-4531-8440-866227dc6743q,"Jun 8, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,20,Claude.Ai,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,38e61dc4-f883-11ef-aa93-cf3d7a39d54bt,"Mar 6, 2025",b386550a-1628-11ef-ae6b-0f7bc6a08613,25,Authorize.Net,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,3922f18e-05b9-11f0-ab58-650c65950d7ct,"Mar 21, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,3926dd0a-c92b-11ef-a716-bf3b2703566eq,"Jan 4, 2025",51c5b230-faab-11ef-9602-a73b7ca86f47,53,Paypal,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,392a1a66-c1ff-11ef-9cd2-83f76a596071z,"Dec 25, 2024",1585402a-fe65-11ef-8e74-8ff8842771a5,47.97,Klaviyo,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,392f658a-8474-4621-b5fe-6cb62f7456aez,"Aug 17, 2024",5e08a0d2-ea54-11ef-b08d-d7409f4338cb,320.13,Micron Group,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,393363d4-cf90-11ef-9ec6-7b78a6a8fad9q,"Jan 13, 2025",51c5b230-faab-11ef-9602-a73b7ca86f47,40.36,Twilio,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,3934492c-8ff1-4e2f-aafc-1144b75f23e9z,"Apr 22, 2024",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,19,Github,mapping categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,3956d864-382e-11ee-a3ca-f35112c6a9b4z,"Aug 11, 2023",3435b838-fe5b-11ef-9135-9703c6a0407d,"4,420",Richard Murphy Studio,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,396c1346-b5d7-11ef-bd85-252e12f92669z,"Dec 9, 2024",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,18,Elfsight,mapping categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,3970e800-c476-11ef-bf2f-bd1634c4fa28q,"Dec 28, 2024",51c60ef6-faab-11ef-9602-071ee06520f3,17.11,Tesla,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,39a0fb18-64bc-11ef-97bc-e37e0061effcz,"Aug 27, 2024",3435b838-fe5b-11ef-9135-9703c6a0407d,"1,000",Payroll,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,39ad3b3e-e703-11ef-a4b8-490a84a0bb79q,"Feb 10, 2025",51c5b230-faab-11ef-9602-a73b7ca86f47,55,Gmass,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,39b2a1f6-8c03-11ef-839a-b1b974d106efq,"Oct 17, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,10,Vapi Api,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,39beb920-5279-4ba1-8218-a96e1dcddc83q,"Jun 2, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,7.66,Google Workspace,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,39e6a78e-012f-11f0-9b99-03d9ba58efb8t,"Mar 15, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,39efdd5d-6ab2-4963-b68a-fe8770b2e8eez,"May 31, 2024",1585402a-fe65-11ef-8e74-8ff8842771a5,12,Codepen,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,39fc02ae-e8c0-4435-bdcf-0581a10adcd6z,"Jun 8, 2024",0c144b0c-f092-11ef-ad89-cff85491c575,154.08,Fictiv,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,39fe803e-ed70-11ef-8b1c-b5c40a20f89et,"Feb 18, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,3a0b3af2-f571-11ed-b501-af9bf5ddb2dfz,"May 18, 2023",0c144b0c-f092-11ef-ad89-cff85491c575,"3,000",Gembah,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,3a0f35a4-0ee1-11f0-aad6-db8e62109ec8z,"Apr 1, 2025",5e0a4c84-ea54-11ef-b08d-b78074d1165e,69.49,Mercury Io Cashback,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,3a1fa1b7-f94f-41ca-9d74-ae294a23610fq,"Jun 29, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,10,Sakari Sms,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,3a2f7372-f3bc-11ef-8b70-17168a008b74q,"Feb 26, 2025",51c60ef6-faab-11ef-9602-071ee06520f3,17.28,Tesla,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,3a30ed58-0f17-11f0-9593-f724fc0bff9bt,"Apr 1, 2025",b385407a-1628-11ef-ae6b-c3bcb7670ce1,585,Iqud Tek Llp,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,3a4b9332-f0b9-11ef-a083-f131efb26856t,"Feb 22, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,3a521fae-f208-11ef-a58e-81c911cd18e5t,"Feb 24, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,3a63dec6-0039-11f0-b75e-313fbc084a85t,"Mar 14, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,3a659a36-5ce6-42ad-b0c4-7e2ee020de03z,"Aug 10, 2024",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,25.26,Printful,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,3aa80e5a-15b4-11ee-b49b-073a79e10417z,"Jun 29, 2023",1585402a-fe65-11ef-8e74-8ff8842771a5,180,Vectary,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,3aa927d2-09fe-11f0-9c02-e155dc7bbe81t,"Mar 26, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,3ab06ee6-32c5-11ee-98bf-7bfd63f21f20z,"Aug 5, 2023",5e09064e-ea54-11ef-b08d-3b023ce35269,54.05,Amazon,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,3ae1b234-a5d0-11ee-a952-07886e85395fz,"Dec 29, 2023",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,106.59,Linkedin,mapping categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,3ae83bc6-f7a6-11ef-8140-65d731b69111t,"Mar 3, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,3aeae928-fb95-11ef-8f12-a7ec2a850440t,"Mar 8, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,3afb6348-1433-4d64-81c0-6847d88a5ee9q,"Mar 6, 2024",51c52da6-faab-11ef-9602-1b5151ad1ee3,179.22,New Broadway Wines & L,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,3b03c47c-e068-11ef-8bbb-d7b5983bd881z,"Feb 1, 2025",5e0a4c84-ea54-11ef-b08d-b78074d1165e,28.2,Mercury Io Cashback,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,3b13e2b0-5de9-11ee-a70d-0bf5fcbabf37z,"Sep 29, 2023",0c144b0c-f092-11ef-ad89-cff85491c575,72.95,Sailrite,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,3b18f9e0-f6bc-11ef-b0e6-0fc32ce96e78q,"Mar 2, 2025",51c5b230-faab-11ef-9602-a73b7ca86f47,407.18,Google Cloud,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,3b25659a-82f5-11ee-a839-1f639a2ae28az,"Nov 14, 2023",5e0c04a2-ea54-11ef-b08d-7b26fb8e554d,"3,503.73",Payroll,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,3b402206-6921-11ee-afa1-6755a0b3c4bcz,"Oct 13, 2023",5e082206-ea54-11ef-b08d-57ad080a7534,500,Google,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,3b628374-fdda-11ef-8207-7facb699903fz,"Mar 11, 2025",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,21.28,Openai,mapping categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,3b9797a6-a850-4b0e-98e3-defea6911e7dq,"May 24, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,200,Twilio,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,3ba149d7-26e9-48db-8d99-38f8c6f3ddaez,"Jun 29, 2024",5e082206-ea54-11ef-b08d-57ad080a7534,500,Google,mapping categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,3ba5b1c3-299f-4307-be98-2742c74a6741z,"Jun 25, 2024",1585402a-fe65-11ef-8e74-8ff8842771a5,47.97,Klaviyo,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,3baabb4c-8aff-11ef-921a-49e84fa0b911z,"Oct 16, 2024",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,21.32,Figma,mapping categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,3baf56ba-05cb-11f0-b09a-0f439f5a292ft,"Mar 21, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,3bb2c5d6-f3b8-11ef-ab37-016d127e2740t,"Feb 26, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,3bbebf77-94b4-435b-9a8b-df3341949503z,"Jul 28, 2024",5e09064e-ea54-11ef-b08d-3b023ce35269,12.97,Amazon,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,3bc0ac0a-08da-11f0-838b-0d3c36fd792bt,"Mar 25, 2025",b386550a-1628-11ef-ae6b-0f7bc6a08613,236.79,Upwork,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,3bcb1fee-5b4e-11ef-bffa-1f770e89b2c7q,"Aug 15, 2024",51c5c428-faab-11ef-9602-8b0e98667e1a,"2,021.33",Gusto,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,3be29866-7fa4-11ef-8dbe-0bba93144783z,"Oct 1, 2024",5e0a4c84-ea54-11ef-b08d-b78074d1165e,183.89,Mercury Io Cashback,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,3be6b246-7c4f-11ef-baf3-dbe4c7afd794q,"Sep 26, 2024",51c61432-faab-11ef-9602-9367dc148211,9.99,Tesla Motors,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,3c02f1b6-099b-11f0-a714-cb84a5617b03t,"Mar 26, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,3c02f9dc-0e06-4c95-be49-8ede56c86cfcq,"Mar 23, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,109,Open Interpreter,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,3c0368ea-f649-11ef-9383-470e0a204d40t,"Mar 1, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,3c06f026-d1d6-48d1-a5b8-03ef664de3f6z,"Jun 16, 2024",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,21.28,Figma,mapping categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,3c26f442-907b-11ef-8843-ad0ccff733fbz,"Oct 23, 2024",32cb2e9a-aa7b-11ee-ba20-47ce482162e6,415,Amazing Spaces,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,3c2f0cbc-8cc1-4b7c-be69-f52f6985a63eq,"Apr 11, 2024",51c60ef6-faab-11ef-9602-071ee06520f3,17.76,Tesla,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,3c4adf88-ffa7-11ef-a9c2-cf613951d67bt,"Mar 13, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,3c655dac-4db2-11ee-a67c-23564a93c466z,"Sep 8, 2023",0c144b0c-f092-11ef-ad89-cff85491c575,285.42,Fictiv,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,3c671d86-82f5-11ee-b46a-971fa7751376z,"Nov 14, 2023",5e0c04a2-ea54-11ef-b08d-7b26fb8e554d,"3,061.42",Payroll,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,3c7443a8-5730-11ee-bcbc-6b5b205f7a49z,"Sep 20, 2023",5e082206-ea54-11ef-b08d-57ad080a7534,21.64,Metapay,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,3c830ffe-b4cf-11ed-9652-ffae7759caf7z,"Feb 25, 2023",5e0999c4-ea54-11ef-b08d-0713545aecff,450,Corp E Corp,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,3c89dade-51df-11ee-a1b5-fb5169c97cdcz,"Sep 13, 2023",1585402a-fe65-11ef-8e74-8ff8842771a5,39,Remove.Bg,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,3c8c20b6-d9c7-11ef-abb8-b37ac0780081q,"Jan 24, 2025",51c60ef6-faab-11ef-9602-071ee06520f3,17.21,Tesla,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,3c9b944a-f599-11ef-a17a-69c7d114aeaet,"Feb 28, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,30,Sendinblue.Com,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,3ca98e54-e792-11ed-9a50-57da8564403bz,"May 1, 2023",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,60,Canva,mapping categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,3cb83e71-ad62-4d92-a7f8-f5b5fa8c7eebq,"May 22, 2024",51c5f81c-faab-11ef-9602-034dd94120e6,138.9,Uber,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,3cd0453c-c129-11ee-99ed-539459852a1cz,"Feb 1, 2024",5e09064e-ea54-11ef-b08d-3b023ce35269,471.93,Kevin Long,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,3cd0e504-64fa-11ee-972c-631f9b04a731z,"Oct 8, 2023",5e082206-ea54-11ef-b08d-57ad080a7534,900,Facebook,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,3cfac42c-8b3d-11ef-a26d-e7f6ab3994beq,"Oct 15, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,7.61,Next Insur (Ap I,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,3d0ac99a-332c-11ee-a56e-3b0da5e6bb14z,"Aug 6, 2023",5e09064e-ea54-11ef-b08d-3b023ce35269,30.24,Amazon,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,3d1aa682-db44-11ef-8051-db02dad5c3e0q,"Jan 26, 2025",51c5b230-faab-11ef-9602-a73b7ca86f47,30.98,Github,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,3d24c530-0c1e-11f0-b6c2-8bf38114a466z,"Mar 28, 2025",5e0a9b12-ea54-11ef-b08d-4b5ae661f97d,838,Gusto,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,3d6a4388-982c-11ee-b60f-c73056e31bacz,"Dec 11, 2023",5e09064e-ea54-11ef-b08d-3b023ce35269,625.83,Amex Epayment,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,3d6a4cc6-faae-11ef-8229-fff7f74f16bez,"Mar 7, 2025",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,43.29,Linkedin,mapping categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,3d70b39c-f417-4689-b2c9-0594c778a6e1z,"Jul 9, 2024",0c144b0c-f092-11ef-ad89-cff85491c575,130.84,Digi-Key Electronics,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,3d979c58-e114-4b16-a2af-6026f91aa212z,"Jun 25, 2024",5e08d8b8-ea54-11ef-b08d-5f3f8ff30d31,148.01,Printful,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,3d9c57c4-fe2f-49dc-b153-b4e23a10ec7aq,"Aug 10, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,55,Gmass,manual categorization
+0261019e-f163-11ec-b45a-8b765a2c4fc8p,3dac1a9e-3dee-11ee-827f-f79e7e2b3c86z,"Aug 19, 2023",0c144b0c-f092-11ef-ad89-cff85491c575,"1,062.23",Fictiv,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,3daf4d44-f13f-11ef-868d-1720d8b2bdb7t,"Feb 23, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+36e10e52-c4ff-11ee-80f8-436515a9f9a3f,3db690a1-9206-4e12-9a20-2f6c5ea643cfq,"Jul 31, 2024",51c5b230-faab-11ef-9602-a73b7ca86f47,1.07,Air Ai,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,3dc2db48-0503-11f0-9c9f-e7d2c52df488t,"Mar 20, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization
+8c2f4fde-a69d-11ee-8758-f709cc17f119j,3dd428fa-eeef-11ef-a1a6-7f70ea61da90t,"Feb 20, 2025",934a48c4-162c-11ef-b2e6-1b4bcaf260f4,0.5,Sideramp Daily Plan,manual categorization

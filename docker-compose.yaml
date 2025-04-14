@@ -1,0 +1,13 @@
+services:
+  api:
+    container_name: gl-code-api
+    build: .
+    image: gl-codes-api:latest
+    volumes:
+      - ./app:/app   # Mount the entire project directory
+    ports:
+      - "8000:8000"
+    environment:
+      - COHERE_API_KEY=Gwiu5tTMOeV2uLLA13g30SUXYliv2p4FgInZ2Ki3
+      - GL_CODES_PATH=data/gl_codes_genai_takehome.csv
+      - TRANSACTIONS_PATH=data/transactions_genai_takehome.csv
