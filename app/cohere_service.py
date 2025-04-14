@@ -45,7 +45,7 @@ class CohereService:
                 documents.append(
                     {
                         "text": node.text,
-                        # No need for an ID field, Cohere will use the index
+                        "metadata": node.metadata,
                     }
                 )
 
@@ -74,11 +74,10 @@ class CohereService:
                     "gl_name": original_node.metadata.gl_name,
                     "rank": idx + 1,
                     "relevance_score": result.relevance_score,
-                    "hybrid_score": result.relevance_score
-                    * (original_node.score or 0.5),
                     "frequency": original_node.metadata.frequency,
                     "amount": original_node.metadata.amount,
                     "reasoning": f"This GL code matches the merchant transaction based on semantic similarity with a score of {result.relevance_score:.4f}",
+                    "metadata": original_node.metadata,
                 }
 
                 results.append(result_doc)

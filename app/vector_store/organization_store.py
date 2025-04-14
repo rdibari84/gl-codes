@@ -124,6 +124,9 @@ class OrganizationVectorStore:
                 & (merchant_gl_counts["gl_code_id"] == gl_code)
             ]["count"].iloc[0]
             amount = row["line_item_amount"]
+            transaction_date = row["line_item_amount"]
+            transaction_metadata_id = row["transaction_metadata_id"]
+            hierarchy_manualness = row["hierarchy_manualness"]
 
             documents.append(
                 f"Transaction with merchant {merchant} for amount {amount}"
@@ -137,6 +140,9 @@ class OrganizationVectorStore:
                     frequency=frequency,
                     merchant=merchant,
                     amount=amount,
+                    transaction_date=transaction_date,
+                    transaction_metadata_id=transaction_metadata_id,
+                    hierarchy_manualness=hierarchy_manualness,
                 )
             )
 
@@ -209,6 +215,15 @@ class OrganizationVectorStore:
 
     def search(self, query: str, k: int = 10) -> SearchResult:
         """Search the index for similar items"""
+        logger.info(f"Querying vector index. Query: {query}")
+        # Load if needed
+        if not self.is_loaded():
+            if not self.load():
+                logger.warning(
+                    "Uhoh something went wrong initializing the vector store"
+                )
+                return {}
+
         if self.index is None:
             logger.error("Index not loaded")
             return SearchResult(source_nodes=[])
@@ -218,27 +233,37 @@ class OrganizationVectorStore:
             return SearchResult(source_nodes=[])
 
         # Generate query embedding
-        logger.info(f"Searching for data relevant to {query}")
         query_embedding = self.embedding_model.encode([query], show_progress_bar=False)
 
         # Search
         distances, indices = self.index.search(query_embedding, k)
-
-        if len(indices) == 0 or len(indices[0]) == 0:
-            logger.warning(f"Query returned no results")
-            return SearchResult(source_nodes=[])
+        logger.debug(f"indicies {indices}")
 
         # Process results
         source_nodes = []
+        seen_keys = set()  # Track already seen items
 
         # Use indices[0] to get the first row of the 2D indices array
         for i, idx in enumerate(indices[0]):
+            # Skip invalid indices (FAISS uses -1 when it can't find enough neighbors)
+            if idx == -1:
+                continue
+
             if idx < len(self.metadata):
                 # Get the metadata
                 metadata_item = self.metadata[idx]
 
-                # Generate document text from metadata
                 if isinstance(metadata_item, Metadata):
+                    # Create a unique key for this item
+                    dedup_key = f"{metadata_item.gl_code}_{metadata_item.merchant}"
+
+                    # Skip if we've already seen this combination
+                    if dedup_key in seen_keys:
+                        continue
+
+                    seen_keys.add(dedup_key)
+
+                    # Generate document text from metadata
                     merchant = (
                         metadata_item.merchant
                         if metadata_item.merchant is not None
@@ -284,6 +309,9 @@ class OrganizationVectorStore:
         # Load if needed
         if not self.is_loaded():
             if not self.load():
+                logger.warning(
+                    "Uhoh something went wrong initializing the vector store"
+                )
                 return {}
 
         highest_freq = 0

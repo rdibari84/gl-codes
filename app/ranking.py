@@ -91,6 +91,7 @@ class HybridRanker:
                     search_type=SearchType.VECTOR_SEARCH,
                     relevance_score=item.score if item.score else 0.0,
                     reasoning=f"Vector similarity search returned a relevancy score of {item.score:.4f}",
+                    metadata=item.metadata,
                 )
                 vector_search_results.append(result)
         else:
@@ -116,6 +117,7 @@ class HybridRanker:
                         search_type=SearchType.SEMANTIC_SEARCH,
                         relevance_score=result_dict["relevance_score"],
                         reasoning=result_dict["reasoning"],
+                        metadata=result_dict["metadata"],
                     )
                     semantic_search_results.append(result)
 

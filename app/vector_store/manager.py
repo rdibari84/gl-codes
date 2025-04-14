@@ -14,6 +14,7 @@ from app.vector_store.organization_store import OrganizationVectorStore
 class VectorStoreManager:
     """
     Manages vector stores for multiple organizations
+    Creates an organization Store for each org
     """
 
     def __init__(self):
@@ -110,34 +111,6 @@ class VectorStoreManager:
         return org_store.get_most_frequent_code_for_merchant(
             merchant_name, transaction_amount
         )
-
-    # def get_transactions_for_merchant(
-    #     self, org_id: str, merchant_name: str
-    # ) -> List[Dict]:
-    #     """
-    #     Get transactions for a merchant in an organization
-    #     """
-    #     org_store = self._get_org_store(org_id)
-    #     return org_store.get_merchant_transactions(merchant_name)
-
-    # def get_gl_code_details(self, org_id: str, gl_code: str) -> Optional[Dict]:
-    #     """
-    #     Get details for a GL code in an organization
-    #     """
-    #     org_store = self._get_org_store(org_id)
-    #     gl_codes = org_store.get_gl_codes()
-
-    #     if gl_code in gl_codes:
-    #         return {"gl_code": gl_code, "gl_name": gl_codes[gl_code]}
-
-    #     return None
-
-    # def get_merchant_frequency(self, org_id: str, merchant_name: str) -> Dict[str, int]:
-    #     """
-    #     Get GL code frequencies for a merchant in an organization
-    #     """
-    #     org_store = self._get_org_store(org_id)
-    #     return org_store.get_merchant_frequencies(merchant_name)
 
     def check_organization_exists(self, org_id: str) -> bool:
         """

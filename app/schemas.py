@@ -21,57 +21,15 @@ class TransactionRequest(BaseModel):
     transaction_amount: float = Field(..., description="Transaction amount")
 
 
-class GLCodeMatch(BaseModel):
-    """
-    Model for a GL code match result
-    """
-
-    gl_code: str = Field(..., description="GL code")
-    gl_name: str = Field(..., description="GL code name/description")
-    search_type: SearchType = Field(
-        ..., description="the type of search that was performed to get the result"
-    )
-    relevance_score: float = Field(..., description="Semantic relevance score")
-    reasoning: str = Field(..., description="Reasoning for this match")
-
-
-class PredictionResponse(BaseModel):
-    """
-    Response model for transaction prediction
-    """
-
-    best_result: Optional[GLCodeMatch] = Field(default=None)
-    vector_search_results: List[GLCodeMatch] = Field(
-        ..., description="Ranked list of GL code matches"
-    )
-    semantic_search_results: List[GLCodeMatch] = Field(
-        ..., description="Ranked list of GL code matches"
-    )
-    frequency_search_results: List[GLCodeMatch] = Field(
-        ..., description="Ranked list of GL code matches"
-    )
-    original_transaction: TransactionRequest = Field(
-        ..., description="Original transaction data"
-    )
-
-    def to_json(self):
-        return self.model_dump_json()
-
-
-class ErrorResponse(BaseModel):
-    """
-    Error response model
-    """
-
-    detail: str = Field(..., description="Error details")
-
-
 class Metadata(BaseModel):
     gl_code: str
     gl_name: str
     frequency: int
     merchant: Optional[str] = None
     amount: Optional[str] = None
+    transaction_date: Optional[str] = None
+    transaction_metadata_id: Optional[str] = None
+    hierarchy_manualness: Optional[str] = None
 
     def to_json(self) -> Dict[str, Any]:
         return self.model_dump()
@@ -125,12 +83,61 @@ class Metadata(BaseModel):
                 frequency=data.get("frequency", 0),
                 merchant=data.get("merchant"),  # Optional field
                 amount=data.get("amount"),  # Optional field
+                transaction_date=data.get("transaction_date"),
+                transaction_metadata_id=data.get("transaction_metadata_id"),
+                hierarchy_manualness=data.get("hierarchy_manualness"),
             )
 
         else:
             raise TypeError(
                 f"Expected dict, list, or JSON string, got {type(data).__name__}"
             )
+
+
+class GLCodeMatch(BaseModel):
+    """
+    Model for a GL code match result
+    """
+
+    gl_code: str = Field(..., description="GL code")
+    gl_name: str = Field(..., description="GL code name/description")
+    search_type: SearchType = Field(
+        ..., description="the type of search that was performed to get the result"
+    )
+    relevance_score: float = Field(..., description="Semantic relevance score")
+    reasoning: str = Field(..., description="Reasoning for this match")
+    metadata: Metadata = Field(..., description="Metadata for this document")
+
+
+class PredictionResponse(BaseModel):
+    """
+    Response model for transaction prediction
+    """
+
+    best_result: Optional[GLCodeMatch] = Field(default=None)
+    vector_search_results: List[GLCodeMatch] = Field(
+        ..., description="Ranked list of GL code matches"
+    )
+    semantic_search_results: List[GLCodeMatch] = Field(
+        ..., description="Ranked list of GL code matches"
+    )
+    frequency_search_results: List[GLCodeMatch] = Field(
+        ..., description="Ranked list of GL code matches"
+    )
+    original_transaction: TransactionRequest = Field(
+        ..., description="Original transaction data"
+    )
+
+    def to_json(self):
+        return self.model_dump_json()
+
+
+class ErrorResponse(BaseModel):
+    """
+    Error response model
+    """
+
+    detail: str = Field(..., description="Error details")
 
 
 class SourceNode(BaseModel):
