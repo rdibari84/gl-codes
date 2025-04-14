@@ -57,14 +57,27 @@ Consider using [colima](https://smallsharpsoftwaretools.com/tutorials/use-colima
 
 ## Design Approach
 
+### Future Enhancements
+- Need to handle a few cases 
+1. A new organization - no historical transactions exist so this service might not predict anything
+2. We have a new merchant that we haven't seen before -- RAG may or may not return with a good answer and the historical frequency won't match
+3. Some of the historical transactions reference GL code that have been deleted but that historical data is still worthwhile. Right now the service uses those transactions to predict, but we'll need to make another call to determine what active GL code to use
+4. Consider transaction patterns and seasonality - aka use the date of the transaction in a meaningful way
+5. Collect feedback on predictions to improve future recommendations
+6. Secure the API with proper authentication
+7. More comprehensive error responses for edge cases
+
 ### Data Processing
 
 1. Data is loaded from CSV files during application startup
 2. Transactions are organized by organization and stored in a vector database
-3. GL code frequency is calculated for each merchant-GL code pair
+3. Created a FAISS index per org to ensure we don't predict GL codes not associated to the organization
+3. GL code frequency is calculated for each merchant-GL code pair and used in a worst case scenario
+
 
 ### Ranking Mechanism
-The hybrid ranking approach combines:
+The service suggests a best answer, while also returning results from semantic search, vector search and frequency search so the calling client can choose what it wants to use. 
+The 'best answer' approach entails:
 
 1. **Semantic Similarity**:
    - Uses Cohere rerank API to find semantically similar GL codes
@@ -73,23 +86,17 @@ The hybrid ranking approach combines:
 2. **Vector Similarity**:
    - If Semantic Similarity fails or is bad, we'll default to the vector similarity
 
-2. **Frequency**:
+3. **Frequency**:
+   - If Semantic similarity or vector similarity is bad, we'll look at the most frequented GL code for the org/ merchant
    - Compares transaction amount to historical amounts
-   - Normalizes differences for fair comparison
 
-## Future Enhancements
-- handle case for new merchant
-- handle case where a historical GL code that matches the incoming transaction is no longer active
-- Consider transaction patterns and seasonality
-- Collect feedback on predictions to improve future recommendations
-- Secure the API with proper authentication
-- More comprehensive error responses for edge cases
-
-### Use
+## How to Run
 Vist `http://localhost:8000/docs`
-#### CLI
-`poetry run python3 cli.py -o 8c2f4fde-a69d-11ee-8758-f709cc17f119j -m fake -a -1`
-`-o 0261019e-f163-11ec-b45a-8b765a2c4fc8p -m Slack -a 75`
+### CLI
+```
+poetry run python3 cli.py -o 8c2f4fde-a69d-11ee-8758-f709cc17f119j -m fake -a -1
+-o 0261019e-f163-11ec-b45a-8b765a2c4fc8p -m Slack -a 75
+```
 #### API
 `curl -X GET http://localhost:8000/api/health`
 `curl -X POST http://localhost:8000/api/predict -H "Content-Type: application/json" -d '{"organization_id":"36e10e52-c4ff-11ee-80f8-436515a9f9a3f","merchant_name":"Amazon","transaction_amount":75}'`
