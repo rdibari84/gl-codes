@@ -27,7 +27,7 @@ Consider using [colima](https://smallsharpsoftwaretools.com/tutorials/use-colima
 1. Create a `.env` file to override any setting
    ```
    # API settings
-   COHERE_API_KEY=Gwiu5tTMOeV2uLLA13g30SUXYliv2p4FgInZ2Ki3
+   COHERE_API_KEY=fillin
 
    # Data paths - relative to app/
    GL_CODES_PATH=data/gl_codes_genai_takehome.csv
